@@ -2,7 +2,7 @@
 #define __pwm_H
 
 void StartPWM ();
-
+void StopPWM();
 
 
 
