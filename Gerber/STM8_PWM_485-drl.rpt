@@ -1,0 +1,24 @@
+Drill report for /run/user/1000/gvfs/smb-share:server=htpc,share=project/STM8_PWM_485/STM8_PWM_485.kicad_pcb
+Created on Wed 06 Sep 2017 09:14:46 PM CST
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  F.Cu                      front
+    L2 :  B.Cu                      back
+
+
+Drill file 'STM8_PWM_485.drl' contains
+    plated through holes:
+    =============================================================
+    T1  0.40mm  0.016"  (40 holes)
+    T2  0.80mm  0.031"  (2 holes)
+    T3  1.00mm  0.039"  (25 holes)
+
+    Total plated holes count 67
+
+
+Drill file 'STM8_PWM_485-NPTH.drl' contains
+    unplated through holes:
+    =============================================================
+
+    Total unplated holes count 0

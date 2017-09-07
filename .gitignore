@@ -60,6 +60,7 @@ Desktop.ini
 
 # Recycle Bin used on file shares
 $RECYCLE.BIN/
+SOFT/CUBE/
 
 # Windows Installer files
 *.cab

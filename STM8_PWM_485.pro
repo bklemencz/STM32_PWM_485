@@ -1,4 +1,4 @@
-update=6/26/2017 10:30:48 PM
+update=8/26/2017 10:32:40 AM
 version=1
 last_client=kicad
 [pcbnew]
@@ -62,3 +62,13 @@ LibName30=C:/Users/t9569bk/Documents/PCB_Libs/KICad-Library/BK_STM8
 LibName31=C:/Users/t9569bk/Documents/PCB_Libs/KICad-Library/BK_Common
 LibName32=C:/Users/t9569bk/Documents/PCB_Libs/KICad-Library/BK_LED_Drivers
 LibName33=C:/Program Files/KiCad/share/kicad/library/stm32
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+LabSize=60
