@@ -1,27 +1,27 @@
 Archive member included because of file (symbol)
 
-c:/users/t9569bk/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-exit.o)
-                              c:/users/t9569bk/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/crt0.o (exit)
-c:/users/t9569bk/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-impure.o)
-                              c:/users/t9569bk/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-exit.o) (_global_impure_ptr)
-c:/users/t9569bk/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-init.o)
-                              c:/users/t9569bk/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/crt0.o (__libc_init_array)
-c:/users/t9569bk/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-memset.o)
-                              c:/users/t9569bk/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/crt0.o (memset)
-c:/users/t9569bk/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-__call_atexit.o)
-                              c:/users/t9569bk/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-exit.o) (__call_exitprocs)
-c:/users/t9569bk/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-atexit.o)
-                              c:/users/t9569bk/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-__call_atexit.o) (atexit)
-c:/users/t9569bk/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-fini.o)
-                              c:/users/t9569bk/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-__call_atexit.o) (__libc_fini_array)
-c:/users/t9569bk/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-__atexit.o)
-                              c:/users/t9569bk/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-atexit.o) (__register_exitproc)
-c:/users/t9569bk/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m\libgcc.a(_udivsi3.o)
+c:/users/balazs/.platformio/packages/toolchain-gccarmnoneeabi@1.40804.0/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-exit.o)
+                              c:/users/balazs/.platformio/packages/toolchain-gccarmnoneeabi@1.40804.0/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/crt0.o (exit)
+c:/users/balazs/.platformio/packages/toolchain-gccarmnoneeabi@1.40804.0/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-impure.o)
+                              c:/users/balazs/.platformio/packages/toolchain-gccarmnoneeabi@1.40804.0/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-exit.o) (_global_impure_ptr)
+c:/users/balazs/.platformio/packages/toolchain-gccarmnoneeabi@1.40804.0/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-init.o)
+                              c:/users/balazs/.platformio/packages/toolchain-gccarmnoneeabi@1.40804.0/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/crt0.o (__libc_init_array)
+c:/users/balazs/.platformio/packages/toolchain-gccarmnoneeabi@1.40804.0/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-memset.o)
+                              c:/users/balazs/.platformio/packages/toolchain-gccarmnoneeabi@1.40804.0/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/crt0.o (memset)
+c:/users/balazs/.platformio/packages/toolchain-gccarmnoneeabi@1.40804.0/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-__call_atexit.o)
+                              c:/users/balazs/.platformio/packages/toolchain-gccarmnoneeabi@1.40804.0/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-exit.o) (__call_exitprocs)
+c:/users/balazs/.platformio/packages/toolchain-gccarmnoneeabi@1.40804.0/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-atexit.o)
+                              c:/users/balazs/.platformio/packages/toolchain-gccarmnoneeabi@1.40804.0/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-__call_atexit.o) (atexit)
+c:/users/balazs/.platformio/packages/toolchain-gccarmnoneeabi@1.40804.0/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-fini.o)
+                              c:/users/balazs/.platformio/packages/toolchain-gccarmnoneeabi@1.40804.0/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-__call_atexit.o) (__libc_fini_array)
+c:/users/balazs/.platformio/packages/toolchain-gccarmnoneeabi@1.40804.0/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-__atexit.o)
+                              c:/users/balazs/.platformio/packages/toolchain-gccarmnoneeabi@1.40804.0/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-atexit.o) (__register_exitproc)
+c:/users/balazs/.platformio/packages/toolchain-gccarmnoneeabi@1.40804.0/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m\libgcc.a(_udivsi3.o)
                               .pioenvs\Generic_STM32F030K6\src\main.o (__aeabi_uidiv)
-c:/users/t9569bk/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m\libgcc.a(_dvmd_tls.o)
-                              c:/users/t9569bk/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m\libgcc.a(_udivsi3.o) (__aeabi_idiv0)
-c:/users/t9569bk/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libnosys.a(_exit.o)
-                              c:/users/t9569bk/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-exit.o) (_exit)
+c:/users/balazs/.platformio/packages/toolchain-gccarmnoneeabi@1.40804.0/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m\libgcc.a(_dvmd_tls.o)
+                              c:/users/balazs/.platformio/packages/toolchain-gccarmnoneeabi@1.40804.0/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m\libgcc.a(_udivsi3.o) (__aeabi_idiv0)
+c:/users/balazs/.platformio/packages/toolchain-gccarmnoneeabi@1.40804.0/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libnosys.a(_exit.o)
+                              c:/users/balazs/.platformio/packages/toolchain-gccarmnoneeabi@1.40804.0/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-exit.o) (_exit)
 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal.o)
                               .pioenvs\Generic_STM32F030K6\src\main.o (HAL_Init)
 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_adc.o)
@@ -48,9 +48,9 @@ c:/users/t9569bk/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/ar
                               .pioenvs\Generic_STM32F030K6\src\usart.o (HAL_UART_Init)
 .pioenvs\Generic_STM32F030K6\libFrameworkCMSISDevice.a(startup_stm32f030x6.o)
                               (Reset_Handler)
-c:/users/t9569bk/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libc_s.a(lib_a-memcpy-stub.o)
+c:/users/balazs/.platformio/packages/toolchain-gccarmnoneeabi@1.40804.0/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libc_s.a(lib_a-memcpy-stub.o)
                               .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_rcc.o) (memcpy)
-c:/users/t9569bk/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m\libgcc.a(_thumb1_case_uqi.o)
+c:/users/balazs/.platformio/packages/toolchain-gccarmnoneeabi@1.40804.0/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m\libgcc.a(_thumb1_case_uqi.o)
                               .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_dma.o) (__gnu_thumb1_case_uqi)
 
 Allocating common symbols
@@ -58,6 +58,7 @@ Common symbol       size              file
 
 uwTick              0x4               .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal.o)
 htim3               0x40              .pioenvs\Generic_STM32F030K6\src\tim.o
+PWM_Channel         0x80              .pioenvs\Generic_STM32F030K6\src\pwm.o
 huart1              0x70              .pioenvs\Generic_STM32F030K6\src\usart.o
 htim1               0x40              .pioenvs\Generic_STM32F030K6\src\tim.o
 hspi1               0x64              .pioenvs\Generic_STM32F030K6\src\spi.o
@@ -65,70 +66,70 @@ hadc                0x4c              .pioenvs\Generic_STM32F030K6\src\adc.o
 
 Discarded input sections
 
- .text          0x00000000        0x0 c:/users/t9569bk/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/crti.o
- .data          0x00000000        0x0 c:/users/t9569bk/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/crti.o
- .bss           0x00000000        0x0 c:/users/t9569bk/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/crti.o
- .data          0x00000000        0x4 c:/users/t9569bk/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/crtbegin.o
- .text          0x00000000       0x78 c:/users/t9569bk/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/crt0.o
- .data          0x00000000        0x0 c:/users/t9569bk/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/crt0.o
- .bss           0x00000000        0x0 c:/users/t9569bk/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/crt0.o
- .ARM.extab     0x00000000        0x0 c:/users/t9569bk/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/crt0.o
- .ARM.exidx     0x00000000        0x8 c:/users/t9569bk/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/crt0.o
+ .text          0x00000000        0x0 c:/users/balazs/.platformio/packages/toolchain-gccarmnoneeabi@1.40804.0/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/crti.o
+ .data          0x00000000        0x0 c:/users/balazs/.platformio/packages/toolchain-gccarmnoneeabi@1.40804.0/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/crti.o
+ .bss           0x00000000        0x0 c:/users/balazs/.platformio/packages/toolchain-gccarmnoneeabi@1.40804.0/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/crti.o
+ .data          0x00000000        0x4 c:/users/balazs/.platformio/packages/toolchain-gccarmnoneeabi@1.40804.0/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/crtbegin.o
+ .text          0x00000000       0x78 c:/users/balazs/.platformio/packages/toolchain-gccarmnoneeabi@1.40804.0/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/crt0.o
+ .data          0x00000000        0x0 c:/users/balazs/.platformio/packages/toolchain-gccarmnoneeabi@1.40804.0/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/crt0.o
+ .bss           0x00000000        0x0 c:/users/balazs/.platformio/packages/toolchain-gccarmnoneeabi@1.40804.0/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/crt0.o
+ .ARM.extab     0x00000000        0x0 c:/users/balazs/.platformio/packages/toolchain-gccarmnoneeabi@1.40804.0/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/crt0.o
+ .ARM.exidx     0x00000000        0x8 c:/users/balazs/.platformio/packages/toolchain-gccarmnoneeabi@1.40804.0/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/crt0.o
  .ARM.attributes
-                0x00000000       0x1b c:/users/t9569bk/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/crt0.o
- .text          0x00000000        0x0 c:/users/t9569bk/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-exit.o)
- .data          0x00000000        0x0 c:/users/t9569bk/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-exit.o)
- .bss           0x00000000        0x0 c:/users/t9569bk/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-exit.o)
- .text.exit     0x00000000       0x20 c:/users/t9569bk/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-exit.o)
+                0x00000000       0x1b c:/users/balazs/.platformio/packages/toolchain-gccarmnoneeabi@1.40804.0/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/crt0.o
+ .text          0x00000000        0x0 c:/users/balazs/.platformio/packages/toolchain-gccarmnoneeabi@1.40804.0/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-exit.o)
+ .data          0x00000000        0x0 c:/users/balazs/.platformio/packages/toolchain-gccarmnoneeabi@1.40804.0/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-exit.o)
+ .bss           0x00000000        0x0 c:/users/balazs/.platformio/packages/toolchain-gccarmnoneeabi@1.40804.0/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-exit.o)
+ .text.exit     0x00000000       0x20 c:/users/balazs/.platformio/packages/toolchain-gccarmnoneeabi@1.40804.0/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-exit.o)
  .ARM.attributes
-                0x00000000       0x2c c:/users/t9569bk/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-exit.o)
- .debug_frame   0x00000000       0x28 c:/users/t9569bk/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-exit.o)
- .text          0x00000000        0x0 c:/users/t9569bk/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-impure.o)
- .data          0x00000000        0x0 c:/users/t9569bk/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-impure.o)
- .bss           0x00000000        0x0 c:/users/t9569bk/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-impure.o)
+                0x00000000       0x2c c:/users/balazs/.platformio/packages/toolchain-gccarmnoneeabi@1.40804.0/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-exit.o)
+ .debug_frame   0x00000000       0x28 c:/users/balazs/.platformio/packages/toolchain-gccarmnoneeabi@1.40804.0/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-exit.o)
+ .text          0x00000000        0x0 c:/users/balazs/.platformio/packages/toolchain-gccarmnoneeabi@1.40804.0/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-impure.o)
+ .data          0x00000000        0x0 c:/users/balazs/.platformio/packages/toolchain-gccarmnoneeabi@1.40804.0/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-impure.o)
+ .bss           0x00000000        0x0 c:/users/balazs/.platformio/packages/toolchain-gccarmnoneeabi@1.40804.0/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-impure.o)
  .data._impure_ptr
-                0x00000000        0x4 c:/users/t9569bk/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-impure.o)
+                0x00000000        0x4 c:/users/balazs/.platformio/packages/toolchain-gccarmnoneeabi@1.40804.0/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-impure.o)
  .ARM.attributes
-                0x00000000       0x2c c:/users/t9569bk/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-impure.o)
- .text          0x00000000        0x0 c:/users/t9569bk/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-init.o)
- .data          0x00000000        0x0 c:/users/t9569bk/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-init.o)
- .bss           0x00000000        0x0 c:/users/t9569bk/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-init.o)
+                0x00000000       0x2c c:/users/balazs/.platformio/packages/toolchain-gccarmnoneeabi@1.40804.0/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-impure.o)
+ .text          0x00000000        0x0 c:/users/balazs/.platformio/packages/toolchain-gccarmnoneeabi@1.40804.0/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-init.o)
+ .data          0x00000000        0x0 c:/users/balazs/.platformio/packages/toolchain-gccarmnoneeabi@1.40804.0/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-init.o)
+ .bss           0x00000000        0x0 c:/users/balazs/.platformio/packages/toolchain-gccarmnoneeabi@1.40804.0/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-init.o)
  .ARM.attributes
-                0x00000000       0x2c c:/users/t9569bk/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-init.o)
- .debug_frame   0x00000000       0x2c c:/users/t9569bk/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-init.o)
- .text          0x00000000        0x0 c:/users/t9569bk/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-memset.o)
- .data          0x00000000        0x0 c:/users/t9569bk/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-memset.o)
- .bss           0x00000000        0x0 c:/users/t9569bk/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-memset.o)
- .text.memset   0x00000000       0x9c c:/users/t9569bk/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-memset.o)
+                0x00000000       0x2c c:/users/balazs/.platformio/packages/toolchain-gccarmnoneeabi@1.40804.0/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-init.o)
+ .debug_frame   0x00000000       0x2c c:/users/balazs/.platformio/packages/toolchain-gccarmnoneeabi@1.40804.0/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-init.o)
+ .text          0x00000000        0x0 c:/users/balazs/.platformio/packages/toolchain-gccarmnoneeabi@1.40804.0/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-memset.o)
+ .data          0x00000000        0x0 c:/users/balazs/.platformio/packages/toolchain-gccarmnoneeabi@1.40804.0/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-memset.o)
+ .bss           0x00000000        0x0 c:/users/balazs/.platformio/packages/toolchain-gccarmnoneeabi@1.40804.0/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-memset.o)
+ .text.memset   0x00000000       0x9c c:/users/balazs/.platformio/packages/toolchain-gccarmnoneeabi@1.40804.0/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-memset.o)
  .ARM.attributes
-                0x00000000       0x2c c:/users/t9569bk/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-memset.o)
- .debug_frame   0x00000000       0x30 c:/users/t9569bk/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-memset.o)
- .text          0x00000000        0x0 c:/users/t9569bk/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-__call_atexit.o)
- .data          0x00000000        0x0 c:/users/t9569bk/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-__call_atexit.o)
- .bss           0x00000000        0x0 c:/users/t9569bk/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-__call_atexit.o)
+                0x00000000       0x2c c:/users/balazs/.platformio/packages/toolchain-gccarmnoneeabi@1.40804.0/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-memset.o)
+ .debug_frame   0x00000000       0x30 c:/users/balazs/.platformio/packages/toolchain-gccarmnoneeabi@1.40804.0/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-memset.o)
+ .text          0x00000000        0x0 c:/users/balazs/.platformio/packages/toolchain-gccarmnoneeabi@1.40804.0/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-__call_atexit.o)
+ .data          0x00000000        0x0 c:/users/balazs/.platformio/packages/toolchain-gccarmnoneeabi@1.40804.0/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-__call_atexit.o)
+ .bss           0x00000000        0x0 c:/users/balazs/.platformio/packages/toolchain-gccarmnoneeabi@1.40804.0/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-__call_atexit.o)
  .text.__call_exitprocs
-                0x00000000      0x118 c:/users/t9569bk/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-__call_atexit.o)
+                0x00000000      0x118 c:/users/balazs/.platformio/packages/toolchain-gccarmnoneeabi@1.40804.0/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-__call_atexit.o)
  .ARM.attributes
-                0x00000000       0x2c c:/users/t9569bk/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-__call_atexit.o)
- .debug_frame   0x00000000       0x54 c:/users/t9569bk/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-__call_atexit.o)
- .text          0x00000000        0x0 c:/users/t9569bk/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-atexit.o)
- .data          0x00000000        0x0 c:/users/t9569bk/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-atexit.o)
- .bss           0x00000000        0x0 c:/users/t9569bk/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-atexit.o)
+                0x00000000       0x2c c:/users/balazs/.platformio/packages/toolchain-gccarmnoneeabi@1.40804.0/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-__call_atexit.o)
+ .debug_frame   0x00000000       0x54 c:/users/balazs/.platformio/packages/toolchain-gccarmnoneeabi@1.40804.0/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-__call_atexit.o)
+ .text          0x00000000        0x0 c:/users/balazs/.platformio/packages/toolchain-gccarmnoneeabi@1.40804.0/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-atexit.o)
+ .data          0x00000000        0x0 c:/users/balazs/.platformio/packages/toolchain-gccarmnoneeabi@1.40804.0/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-atexit.o)
+ .bss           0x00000000        0x0 c:/users/balazs/.platformio/packages/toolchain-gccarmnoneeabi@1.40804.0/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-atexit.o)
  .ARM.attributes
-                0x00000000       0x2c c:/users/t9569bk/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-atexit.o)
- .debug_frame   0x00000000       0x28 c:/users/t9569bk/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-atexit.o)
- .text          0x00000000        0x0 c:/users/t9569bk/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-fini.o)
- .data          0x00000000        0x0 c:/users/t9569bk/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-fini.o)
- .bss           0x00000000        0x0 c:/users/t9569bk/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-fini.o)
+                0x00000000       0x2c c:/users/balazs/.platformio/packages/toolchain-gccarmnoneeabi@1.40804.0/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-atexit.o)
+ .debug_frame   0x00000000       0x28 c:/users/balazs/.platformio/packages/toolchain-gccarmnoneeabi@1.40804.0/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-atexit.o)
+ .text          0x00000000        0x0 c:/users/balazs/.platformio/packages/toolchain-gccarmnoneeabi@1.40804.0/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-fini.o)
+ .data          0x00000000        0x0 c:/users/balazs/.platformio/packages/toolchain-gccarmnoneeabi@1.40804.0/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-fini.o)
+ .bss           0x00000000        0x0 c:/users/balazs/.platformio/packages/toolchain-gccarmnoneeabi@1.40804.0/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-fini.o)
  .ARM.attributes
-                0x00000000       0x2c c:/users/t9569bk/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-fini.o)
- .debug_frame   0x00000000       0x2c c:/users/t9569bk/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-fini.o)
- .text          0x00000000        0x0 c:/users/t9569bk/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-__atexit.o)
- .data          0x00000000        0x0 c:/users/t9569bk/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-__atexit.o)
- .bss           0x00000000        0x0 c:/users/t9569bk/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-__atexit.o)
+                0x00000000       0x2c c:/users/balazs/.platformio/packages/toolchain-gccarmnoneeabi@1.40804.0/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-fini.o)
+ .debug_frame   0x00000000       0x2c c:/users/balazs/.platformio/packages/toolchain-gccarmnoneeabi@1.40804.0/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-fini.o)
+ .text          0x00000000        0x0 c:/users/balazs/.platformio/packages/toolchain-gccarmnoneeabi@1.40804.0/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-__atexit.o)
+ .data          0x00000000        0x0 c:/users/balazs/.platformio/packages/toolchain-gccarmnoneeabi@1.40804.0/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-__atexit.o)
+ .bss           0x00000000        0x0 c:/users/balazs/.platformio/packages/toolchain-gccarmnoneeabi@1.40804.0/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-__atexit.o)
  .ARM.attributes
-                0x00000000       0x2c c:/users/t9569bk/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-__atexit.o)
- .debug_frame   0x00000000       0x38 c:/users/t9569bk/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-__atexit.o)
+                0x00000000       0x2c c:/users/balazs/.platformio/packages/toolchain-gccarmnoneeabi@1.40804.0/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-__atexit.o)
+ .debug_frame   0x00000000       0x38 c:/users/balazs/.platformio/packages/toolchain-gccarmnoneeabi@1.40804.0/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-__atexit.o)
  .text          0x00000000        0x0 .pioenvs\Generic_STM32F030K6\src\adc.o
  .data          0x00000000        0x0 .pioenvs\Generic_STM32F030K6\src\adc.o
  .bss           0x00000000        0x0 .pioenvs\Generic_STM32F030K6\src\adc.o
@@ -143,7 +144,10 @@ Discarded input sections
  .text          0x00000000        0x0 .pioenvs\Generic_STM32F030K6\src\pwm.o
  .data          0x00000000        0x0 .pioenvs\Generic_STM32F030K6\src\pwm.o
  .bss           0x00000000        0x0 .pioenvs\Generic_STM32F030K6\src\pwm.o
+ .text.PWM_Struct_Init
+                0x00000000       0x4c .pioenvs\Generic_STM32F030K6\src\pwm.o
  .text.StopPWM  0x00000000       0x50 .pioenvs\Generic_STM32F030K6\src\pwm.o
+ COMMON         0x00000000       0x80 .pioenvs\Generic_STM32F030K6\src\pwm.o
  .text          0x00000000        0x0 .pioenvs\Generic_STM32F030K6\src\spi.o
  .data          0x00000000        0x0 .pioenvs\Generic_STM32F030K6\src\spi.o
  .bss           0x00000000        0x0 .pioenvs\Generic_STM32F030K6\src\spi.o
@@ -170,17 +174,17 @@ Discarded input sections
  .bss           0x00000000        0x0 .pioenvs\Generic_STM32F030K6\src\usart.o
  .text.HAL_UART_MspDeInit
                 0x00000000       0x34 .pioenvs\Generic_STM32F030K6\src\usart.o
- .data          0x00000000        0x0 c:/users/t9569bk/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m\libgcc.a(_udivsi3.o)
- .bss           0x00000000        0x0 c:/users/t9569bk/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m\libgcc.a(_udivsi3.o)
- .data          0x00000000        0x0 c:/users/t9569bk/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m\libgcc.a(_dvmd_tls.o)
- .bss           0x00000000        0x0 c:/users/t9569bk/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m\libgcc.a(_dvmd_tls.o)
- .text          0x00000000        0x0 c:/users/t9569bk/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libnosys.a(_exit.o)
- .data          0x00000000        0x0 c:/users/t9569bk/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libnosys.a(_exit.o)
- .bss           0x00000000        0x0 c:/users/t9569bk/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libnosys.a(_exit.o)
- .text._exit    0x00000000        0x4 c:/users/t9569bk/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libnosys.a(_exit.o)
+ .data          0x00000000        0x0 c:/users/balazs/.platformio/packages/toolchain-gccarmnoneeabi@1.40804.0/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m\libgcc.a(_udivsi3.o)
+ .bss           0x00000000        0x0 c:/users/balazs/.platformio/packages/toolchain-gccarmnoneeabi@1.40804.0/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m\libgcc.a(_udivsi3.o)
+ .data          0x00000000        0x0 c:/users/balazs/.platformio/packages/toolchain-gccarmnoneeabi@1.40804.0/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m\libgcc.a(_dvmd_tls.o)
+ .bss           0x00000000        0x0 c:/users/balazs/.platformio/packages/toolchain-gccarmnoneeabi@1.40804.0/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m\libgcc.a(_dvmd_tls.o)
+ .text          0x00000000        0x0 c:/users/balazs/.platformio/packages/toolchain-gccarmnoneeabi@1.40804.0/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libnosys.a(_exit.o)
+ .data          0x00000000        0x0 c:/users/balazs/.platformio/packages/toolchain-gccarmnoneeabi@1.40804.0/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libnosys.a(_exit.o)
+ .bss           0x00000000        0x0 c:/users/balazs/.platformio/packages/toolchain-gccarmnoneeabi@1.40804.0/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libnosys.a(_exit.o)
+ .text._exit    0x00000000        0x4 c:/users/balazs/.platformio/packages/toolchain-gccarmnoneeabi@1.40804.0/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libnosys.a(_exit.o)
  .ARM.attributes
-                0x00000000       0x2c c:/users/t9569bk/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libnosys.a(_exit.o)
- .debug_frame   0x00000000       0x20 c:/users/t9569bk/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libnosys.a(_exit.o)
+                0x00000000       0x2c c:/users/balazs/.platformio/packages/toolchain-gccarmnoneeabi@1.40804.0/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libnosys.a(_exit.o)
+ .debug_frame   0x00000000       0x20 c:/users/balazs/.platformio/packages/toolchain-gccarmnoneeabi@1.40804.0/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libnosys.a(_exit.o)
  .text          0x00000000        0x0 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal.o)
  .data          0x00000000        0x0 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal.o)
  .bss           0x00000000        0x0 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal.o)
@@ -810,21 +814,21 @@ Discarded input sections
  .text          0x00000000       0x14 .pioenvs\Generic_STM32F030K6\libFrameworkCMSISDevice.a(startup_stm32f030x6.o)
  .data          0x00000000        0x0 .pioenvs\Generic_STM32F030K6\libFrameworkCMSISDevice.a(startup_stm32f030x6.o)
  .bss           0x00000000        0x0 .pioenvs\Generic_STM32F030K6\libFrameworkCMSISDevice.a(startup_stm32f030x6.o)
- .text          0x00000000        0x0 c:/users/t9569bk/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libc_s.a(lib_a-memcpy-stub.o)
- .data          0x00000000        0x0 c:/users/t9569bk/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libc_s.a(lib_a-memcpy-stub.o)
- .bss           0x00000000        0x0 c:/users/t9569bk/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libc_s.a(lib_a-memcpy-stub.o)
- .data          0x00000000        0x0 c:/users/t9569bk/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m\libgcc.a(_thumb1_case_uqi.o)
- .bss           0x00000000        0x0 c:/users/t9569bk/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m\libgcc.a(_thumb1_case_uqi.o)
- .text          0x00000000        0x0 c:/users/t9569bk/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/crtend.o
- .data          0x00000000        0x0 c:/users/t9569bk/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/crtend.o
- .bss           0x00000000        0x0 c:/users/t9569bk/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/crtend.o
- .eh_frame      0x00000000        0x4 c:/users/t9569bk/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/crtend.o
- .jcr           0x00000000        0x4 c:/users/t9569bk/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/crtend.o
+ .text          0x00000000        0x0 c:/users/balazs/.platformio/packages/toolchain-gccarmnoneeabi@1.40804.0/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libc_s.a(lib_a-memcpy-stub.o)
+ .data          0x00000000        0x0 c:/users/balazs/.platformio/packages/toolchain-gccarmnoneeabi@1.40804.0/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libc_s.a(lib_a-memcpy-stub.o)
+ .bss           0x00000000        0x0 c:/users/balazs/.platformio/packages/toolchain-gccarmnoneeabi@1.40804.0/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libc_s.a(lib_a-memcpy-stub.o)
+ .data          0x00000000        0x0 c:/users/balazs/.platformio/packages/toolchain-gccarmnoneeabi@1.40804.0/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m\libgcc.a(_thumb1_case_uqi.o)
+ .bss           0x00000000        0x0 c:/users/balazs/.platformio/packages/toolchain-gccarmnoneeabi@1.40804.0/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m\libgcc.a(_thumb1_case_uqi.o)
+ .text          0x00000000        0x0 c:/users/balazs/.platformio/packages/toolchain-gccarmnoneeabi@1.40804.0/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/crtend.o
+ .data          0x00000000        0x0 c:/users/balazs/.platformio/packages/toolchain-gccarmnoneeabi@1.40804.0/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/crtend.o
+ .bss           0x00000000        0x0 c:/users/balazs/.platformio/packages/toolchain-gccarmnoneeabi@1.40804.0/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/crtend.o
+ .eh_frame      0x00000000        0x4 c:/users/balazs/.platformio/packages/toolchain-gccarmnoneeabi@1.40804.0/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/crtend.o
+ .jcr           0x00000000        0x4 c:/users/balazs/.platformio/packages/toolchain-gccarmnoneeabi@1.40804.0/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/crtend.o
  .ARM.attributes
-                0x00000000       0x2c c:/users/t9569bk/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/crtend.o
- .text          0x00000000        0x0 c:/users/t9569bk/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/crtn.o
- .data          0x00000000        0x0 c:/users/t9569bk/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/crtn.o
- .bss           0x00000000        0x0 c:/users/t9569bk/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/crtn.o
+                0x00000000       0x2c c:/users/balazs/.platformio/packages/toolchain-gccarmnoneeabi@1.40804.0/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/crtend.o
+ .text          0x00000000        0x0 c:/users/balazs/.platformio/packages/toolchain-gccarmnoneeabi@1.40804.0/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/crtn.o
+ .data          0x00000000        0x0 c:/users/balazs/.platformio/packages/toolchain-gccarmnoneeabi@1.40804.0/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/crtn.o
+ .bss           0x00000000        0x0 c:/users/balazs/.platformio/packages/toolchain-gccarmnoneeabi@1.40804.0/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/crtn.o
 
 Memory Configuration
 
@@ -835,9 +839,9 @@ FLASH            0x08000000         0x00008000         xr
 
 Linker script and memory map
 
-LOAD c:/users/t9569bk/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/crti.o
-LOAD c:/users/t9569bk/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/crtbegin.o
-LOAD c:/users/t9569bk/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/crt0.o
+LOAD c:/users/balazs/.platformio/packages/toolchain-gccarmnoneeabi@1.40804.0/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/crti.o
+LOAD c:/users/balazs/.platformio/packages/toolchain-gccarmnoneeabi@1.40804.0/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/crtbegin.o
+LOAD c:/users/balazs/.platformio/packages/toolchain-gccarmnoneeabi@1.40804.0/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/crt0.o
                 0x20001000                _estack = 0x20001000
                 0x00000200                _Min_Heap_Size = 0x200
                 0x00000400                _Min_Stack_Size = 0x400
@@ -849,32 +853,32 @@ LOAD c:/users/t9569bk/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/g
                 0x08000000                g_pfnVectors
                 0x080000c0                . = ALIGN (0x4)
 
-.text           0x080000c0     0x202c
+.text           0x080000c0     0x203c
                 0x080000c0                . = ALIGN (0x4)
  *(.text)
- .text          0x080000c0       0x60 c:/users/t9569bk/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/crtbegin.o
- .text          0x08000120       0x9c c:/users/t9569bk/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m\libgcc.a(_udivsi3.o)
+ .text          0x080000c0       0x60 c:/users/balazs/.platformio/packages/toolchain-gccarmnoneeabi@1.40804.0/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/crtbegin.o
+ .text          0x08000120       0x9c c:/users/balazs/.platformio/packages/toolchain-gccarmnoneeabi@1.40804.0/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m\libgcc.a(_udivsi3.o)
                 0x08000120                __aeabi_uidiv
                 0x08000120                __udivsi3
                 0x080001a8                __aeabi_uidivmod
- .text          0x080001bc        0x4 c:/users/t9569bk/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m\libgcc.a(_dvmd_tls.o)
+ .text          0x080001bc        0x4 c:/users/balazs/.platformio/packages/toolchain-gccarmnoneeabi@1.40804.0/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m\libgcc.a(_dvmd_tls.o)
                 0x080001bc                __aeabi_idiv0
                 0x080001bc                __aeabi_ldiv0
- .text          0x080001c0       0x14 c:/users/t9569bk/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m\libgcc.a(_thumb1_case_uqi.o)
+ .text          0x080001c0       0x14 c:/users/balazs/.platformio/packages/toolchain-gccarmnoneeabi@1.40804.0/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m\libgcc.a(_thumb1_case_uqi.o)
                 0x080001c0                __gnu_thumb1_case_uqi
  *(.text*)
  .text.__libc_init_array
-                0x080001d4       0x48 c:/users/t9569bk/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-init.o)
+                0x080001d4       0x48 c:/users/balazs/.platformio/packages/toolchain-gccarmnoneeabi@1.40804.0/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-init.o)
                 0x080001d4                __libc_init_array
  .text.startup.register_fini
-                0x0800021c       0x18 c:/users/t9569bk/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-__call_atexit.o)
- .text.atexit   0x08000234       0x10 c:/users/t9569bk/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-atexit.o)
+                0x0800021c       0x18 c:/users/balazs/.platformio/packages/toolchain-gccarmnoneeabi@1.40804.0/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-__call_atexit.o)
+ .text.atexit   0x08000234       0x10 c:/users/balazs/.platformio/packages/toolchain-gccarmnoneeabi@1.40804.0/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-atexit.o)
                 0x08000234                atexit
  .text.__libc_fini_array
-                0x08000244       0x30 c:/users/t9569bk/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-fini.o)
+                0x08000244       0x30 c:/users/balazs/.platformio/packages/toolchain-gccarmnoneeabi@1.40804.0/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-fini.o)
                 0x08000244                __libc_fini_array
  .text.__register_exitproc
-                0x08000274       0xc0 c:/users/t9569bk/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-__atexit.o)
+                0x08000274       0xc0 c:/users/balazs/.platformio/packages/toolchain-gccarmnoneeabi@1.40804.0/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-__atexit.o)
                 0x08000274                __register_exitproc
  .text.MX_ADC_Init
                 0x08000334       0x7c .pioenvs\Generic_STM32F030K6\src\adc.o
@@ -937,294 +941,294 @@ LOAD c:/users/t9569bk/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/g
                 0x0800078c       0x90 .pioenvs\Generic_STM32F030K6\src\tim.o
                 0x0800078c                HAL_TIM_MspPostInit
  .text.MX_TIM1_Init
-                0x0800081c       0xc8 .pioenvs\Generic_STM32F030K6\src\tim.o
+                0x0800081c       0xd0 .pioenvs\Generic_STM32F030K6\src\tim.o
                 0x0800081c                MX_TIM1_Init
  .text.MX_TIM3_Init
-                0x080008e4       0x9c .pioenvs\Generic_STM32F030K6\src\tim.o
-                0x080008e4                MX_TIM3_Init
+                0x080008ec       0xa4 .pioenvs\Generic_STM32F030K6\src\tim.o
+                0x080008ec                MX_TIM3_Init
  .text.MX_USART1_UART_Init
-                0x08000980       0x38 .pioenvs\Generic_STM32F030K6\src\usart.o
-                0x08000980                MX_USART1_UART_Init
+                0x08000990       0x38 .pioenvs\Generic_STM32F030K6\src\usart.o
+                0x08000990                MX_USART1_UART_Init
  .text.HAL_UART_MspInit
-                0x080009b8       0x58 .pioenvs\Generic_STM32F030K6\src\usart.o
-                0x080009b8                HAL_UART_MspInit
+                0x080009c8       0x58 .pioenvs\Generic_STM32F030K6\src\usart.o
+                0x080009c8                HAL_UART_MspInit
  .text.HAL_InitTick
-                0x08000a10       0x24 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal.o)
-                0x08000a10                HAL_InitTick
+                0x08000a20       0x24 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal.o)
+                0x08000a20                HAL_InitTick
  .text.HAL_Init
-                0x08000a34       0x20 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal.o)
-                0x08000a34                HAL_Init
+                0x08000a44       0x20 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal.o)
+                0x08000a44                HAL_Init
  .text.HAL_IncTick
-                0x08000a54       0x10 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal.o)
-                0x08000a54                HAL_IncTick
+                0x08000a64       0x10 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal.o)
+                0x08000a64                HAL_IncTick
  .text.HAL_GetTick
-                0x08000a64        0xc .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal.o)
-                0x08000a64                HAL_GetTick
+                0x08000a74        0xc .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal.o)
+                0x08000a74                HAL_GetTick
  .text.HAL_ADC_Init
-                0x08000a70      0x14c .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_adc.o)
-                0x08000a70                HAL_ADC_Init
+                0x08000a80      0x14c .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_adc.o)
+                0x08000a80                HAL_ADC_Init
  .text.HAL_ADC_ConvCpltCallback
-                0x08000bbc        0x2 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_adc.o)
-                0x08000bbc                HAL_ADC_ConvCpltCallback
+                0x08000bcc        0x2 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_adc.o)
+                0x08000bcc                HAL_ADC_ConvCpltCallback
  .text.HAL_ADC_LevelOutOfWindowCallback
-                0x08000bbe        0x2 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_adc.o)
-                0x08000bbe                HAL_ADC_LevelOutOfWindowCallback
+                0x08000bce        0x2 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_adc.o)
+                0x08000bce                HAL_ADC_LevelOutOfWindowCallback
  .text.HAL_ADC_ErrorCallback
-                0x08000bc0        0x2 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_adc.o)
-                0x08000bc0                HAL_ADC_ErrorCallback
- *fill*         0x08000bc2        0x2 
+                0x08000bd0        0x2 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_adc.o)
+                0x08000bd0                HAL_ADC_ErrorCallback
+ *fill*         0x08000bd2        0x2 
  .text.HAL_ADC_IRQHandler
-                0x08000bc4       0xdc .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_adc.o)
-                0x08000bc4                HAL_ADC_IRQHandler
+                0x08000bd4       0xdc .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_adc.o)
+                0x08000bd4                HAL_ADC_IRQHandler
  .text.HAL_ADC_ConfigChannel
-                0x08000ca0       0xe8 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_adc.o)
-                0x08000ca0                HAL_ADC_ConfigChannel
+                0x08000cb0       0xe8 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_adc.o)
+                0x08000cb0                HAL_ADC_ConfigChannel
  .text.HAL_NVIC_SetPriority
-                0x08000d88       0x64 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_cortex.o)
-                0x08000d88                HAL_NVIC_SetPriority
+                0x08000d98       0x64 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_cortex.o)
+                0x08000d98                HAL_NVIC_SetPriority
  .text.HAL_NVIC_EnableIRQ
-                0x08000dec       0x14 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_cortex.o)
-                0x08000dec                HAL_NVIC_EnableIRQ
+                0x08000dfc       0x14 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_cortex.o)
+                0x08000dfc                HAL_NVIC_EnableIRQ
  .text.HAL_SYSTICK_Config
-                0x08000e00       0x34 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_cortex.o)
-                0x08000e00                HAL_SYSTICK_Config
+                0x08000e10       0x34 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_cortex.o)
+                0x08000e10                HAL_SYSTICK_Config
  .text.HAL_SYSTICK_CLKSourceConfig
-                0x08000e34       0x1c .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_cortex.o)
-                0x08000e34                HAL_SYSTICK_CLKSourceConfig
+                0x08000e44       0x1c .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_cortex.o)
+                0x08000e44                HAL_SYSTICK_CLKSourceConfig
  .text.HAL_SYSTICK_Callback
-                0x08000e50        0x2 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_cortex.o)
-                0x08000e50                HAL_SYSTICK_Callback
+                0x08000e60        0x2 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_cortex.o)
+                0x08000e60                HAL_SYSTICK_Callback
  .text.HAL_SYSTICK_IRQHandler
-                0x08000e52        0x8 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_cortex.o)
-                0x08000e52                HAL_SYSTICK_IRQHandler
+                0x08000e62        0x8 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_cortex.o)
+                0x08000e62                HAL_SYSTICK_IRQHandler
  .text.HAL_DMA_Abort_IT
-                0x08000e5a       0x46 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_dma.o)
-                0x08000e5a                HAL_DMA_Abort_IT
+                0x08000e6a       0x46 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_dma.o)
+                0x08000e6a                HAL_DMA_Abort_IT
  .text.HAL_GPIO_Init
-                0x08000ea0      0x164 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_gpio.o)
-                0x08000ea0                HAL_GPIO_Init
+                0x08000eb0      0x164 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_gpio.o)
+                0x08000eb0                HAL_GPIO_Init
  .text.HAL_GPIO_WritePin
-                0x08001004        0xc .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_gpio.o)
-                0x08001004                HAL_GPIO_WritePin
+                0x08001014        0xc .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_gpio.o)
+                0x08001014                HAL_GPIO_WritePin
  .text.HAL_I2CEx_EnableFastModePlus
-                0x08001010       0x28 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_i2c_ex.o)
-                0x08001010                HAL_I2CEx_EnableFastModePlus
+                0x08001020       0x28 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_i2c_ex.o)
+                0x08001020                HAL_I2CEx_EnableFastModePlus
  .text.HAL_RCC_OscConfig
-                0x08001038      0x3a0 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_rcc.o)
-                0x08001038                HAL_RCC_OscConfig
+                0x08001048      0x3a0 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_rcc.o)
+                0x08001048                HAL_RCC_OscConfig
  .text.HAL_RCC_GetSysClockFreq
-                0x080013d8       0x64 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_rcc.o)
-                0x080013d8                HAL_RCC_GetSysClockFreq
+                0x080013e8       0x64 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_rcc.o)
+                0x080013e8                HAL_RCC_GetSysClockFreq
  .text.HAL_RCC_ClockConfig
-                0x0800143c      0x12c .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_rcc.o)
-                0x0800143c                HAL_RCC_ClockConfig
+                0x0800144c      0x12c .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_rcc.o)
+                0x0800144c                HAL_RCC_ClockConfig
  .text.HAL_RCC_GetHCLKFreq
-                0x08001568        0xc .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_rcc.o)
-                0x08001568                HAL_RCC_GetHCLKFreq
+                0x08001578        0xc .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_rcc.o)
+                0x08001578                HAL_RCC_GetHCLKFreq
  .text.HAL_RCC_GetPCLK1Freq
-                0x08001574       0x20 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_rcc.o)
-                0x08001574                HAL_RCC_GetPCLK1Freq
+                0x08001584       0x20 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_rcc.o)
+                0x08001584                HAL_RCC_GetPCLK1Freq
  .text.HAL_RCCEx_PeriphCLKConfig
-                0x08001594      0x10c .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_rcc_ex.o)
-                0x08001594                HAL_RCCEx_PeriphCLKConfig
+                0x080015a4      0x10c .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_rcc_ex.o)
+                0x080015a4                HAL_RCCEx_PeriphCLKConfig
  .text.HAL_SPI_Init
-                0x080016a0       0xbc .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_spi.o)
-                0x080016a0                HAL_SPI_Init
+                0x080016b0       0xbc .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_spi.o)
+                0x080016b0                HAL_SPI_Init
  .text.TIM_OC1_SetConfig
-                0x0800175c       0x78 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_tim.o)
+                0x0800176c       0x78 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_tim.o)
  .text.TIM_OC3_SetConfig
-                0x080017d4       0x80 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_tim.o)
+                0x080017e4       0x80 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_tim.o)
  .text.TIM_OC4_SetConfig
-                0x08001854       0x68 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_tim.o)
+                0x08001864       0x68 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_tim.o)
  .text.TIM_Base_SetConfig
-                0x080018bc       0x80 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_tim.o)
-                0x080018bc                TIM_Base_SetConfig
+                0x080018cc       0x80 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_tim.o)
+                0x080018cc                TIM_Base_SetConfig
  .text.HAL_TIM_PWM_Init
-                0x0800193c       0x34 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_tim.o)
-                0x0800193c                HAL_TIM_PWM_Init
+                0x0800194c       0x34 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_tim.o)
+                0x0800194c                HAL_TIM_PWM_Init
  .text.TIM_OC2_SetConfig
-                0x08001970       0x78 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_tim.o)
-                0x08001970                TIM_OC2_SetConfig
+                0x08001980       0x78 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_tim.o)
+                0x08001980                TIM_OC2_SetConfig
  .text.HAL_TIM_PWM_ConfigChannel
-                0x080019e8       0xd4 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_tim.o)
-                0x080019e8                HAL_TIM_PWM_ConfigChannel
+                0x080019f8       0xd4 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_tim.o)
+                0x080019f8                HAL_TIM_PWM_ConfigChannel
  .text.TIM_CCxChannelCmd
-                0x08001abc       0x18 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_tim.o)
-                0x08001abc                TIM_CCxChannelCmd
+                0x08001acc       0x18 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_tim.o)
+                0x08001acc                TIM_CCxChannelCmd
  .text.HAL_TIM_PWM_Start
-                0x08001ad4       0x44 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_tim.o)
-                0x08001ad4                HAL_TIM_PWM_Start
+                0x08001ae4       0x44 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_tim.o)
+                0x08001ae4                HAL_TIM_PWM_Start
  .text.HAL_TIMEx_MasterConfigSynchronization
-                0x08001b18       0x42 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_tim_ex.o)
-                0x08001b18                HAL_TIMEx_MasterConfigSynchronization
- *fill*         0x08001b5a        0x2 
+                0x08001b28       0x42 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_tim_ex.o)
+                0x08001b28                HAL_TIMEx_MasterConfigSynchronization
+ *fill*         0x08001b6a        0x2 
  .text.HAL_TIMEx_ConfigBreakDeadTime
-                0x08001b5c       0x78 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_tim_ex.o)
-                0x08001b5c                HAL_TIMEx_ConfigBreakDeadTime
+                0x08001b6c       0x78 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_tim_ex.o)
+                0x08001b6c                HAL_TIMEx_ConfigBreakDeadTime
  .text.UART_EndRxTransfer
-                0x08001bd4       0x20 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_uart.o)
+                0x08001be4       0x20 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_uart.o)
  .text.HAL_UART_TxCpltCallback
-                0x08001bf4        0x2 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_uart.o)
-                0x08001bf4                HAL_UART_TxCpltCallback
+                0x08001c04        0x2 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_uart.o)
+                0x08001c04                HAL_UART_TxCpltCallback
  .text.HAL_UART_RxCpltCallback
-                0x08001bf6        0x2 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_uart.o)
-                0x08001bf6                HAL_UART_RxCpltCallback
+                0x08001c06        0x2 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_uart.o)
+                0x08001c06                HAL_UART_RxCpltCallback
  .text.HAL_UART_ErrorCallback
-                0x08001bf8        0x2 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_uart.o)
-                0x08001bf8                HAL_UART_ErrorCallback
+                0x08001c08        0x2 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_uart.o)
+                0x08001c08                HAL_UART_ErrorCallback
  .text.UART_DMAAbortOnError
-                0x08001bfa       0x16 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_uart.o)
+                0x08001c0a       0x16 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_uart.o)
  .text.UART_SetConfig
-                0x08001c10      0x108 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_uart.o)
-                0x08001c10                UART_SetConfig
+                0x08001c20      0x108 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_uart.o)
+                0x08001c20                UART_SetConfig
  .text.UART_AdvFeatureConfig
-                0x08001d18       0xd0 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_uart.o)
-                0x08001d18                UART_AdvFeatureConfig
+                0x08001d28       0xd0 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_uart.o)
+                0x08001d28                UART_AdvFeatureConfig
  .text.HAL_UART_Init
-                0x08001de8       0x78 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_uart.o)
-                0x08001de8                HAL_UART_Init
+                0x08001df8       0x78 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_uart.o)
+                0x08001df8                HAL_UART_Init
  .text.UART_Transmit_IT
-                0x08001e60       0x64 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_uart.o)
-                0x08001e60                UART_Transmit_IT
+                0x08001e70       0x64 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_uart.o)
+                0x08001e70                UART_Transmit_IT
  .text.UART_EndTransmit_IT
-                0x08001ec4       0x1c .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_uart.o)
-                0x08001ec4                UART_EndTransmit_IT
+                0x08001ed4       0x1c .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_uart.o)
+                0x08001ed4                UART_EndTransmit_IT
  .text.UART_Receive_IT
-                0x08001ee0       0x78 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_uart.o)
-                0x08001ee0                UART_Receive_IT
+                0x08001ef0       0x78 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_uart.o)
+                0x08001ef0                UART_Receive_IT
  .text.HAL_UART_IRQHandler
-                0x08001f58      0x118 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_uart.o)
-                0x08001f58                HAL_UART_IRQHandler
+                0x08001f68      0x118 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_uart.o)
+                0x08001f68                HAL_UART_IRQHandler
  .text.Reset_Handler
-                0x08002070       0x50 .pioenvs\Generic_STM32F030K6\libFrameworkCMSISDevice.a(startup_stm32f030x6.o)
-                0x08002070                Reset_Handler
+                0x08002080       0x50 .pioenvs\Generic_STM32F030K6\libFrameworkCMSISDevice.a(startup_stm32f030x6.o)
+                0x08002080                Reset_Handler
  .text.Default_Handler
-                0x080020c0        0x2 .pioenvs\Generic_STM32F030K6\libFrameworkCMSISDevice.a(startup_stm32f030x6.o)
-                0x080020c0                TIM1_CC_IRQHandler
-                0x080020c0                I2C1_IRQHandler
-                0x080020c0                SPI1_IRQHandler
-                0x080020c0                EXTI2_3_IRQHandler
-                0x080020c0                TIM17_IRQHandler
-                0x080020c0                RTC_IRQHandler
-                0x080020c0                TIM16_IRQHandler
-                0x080020c0                TIM3_IRQHandler
-                0x080020c0                EXTI4_15_IRQHandler
-                0x080020c0                RCC_IRQHandler
-                0x080020c0                DMA1_Channel1_IRQHandler
-                0x080020c0                Default_Handler
-                0x080020c0                TIM14_IRQHandler
-                0x080020c0                DMA1_Channel4_5_IRQHandler
-                0x080020c0                EXTI0_1_IRQHandler
-                0x080020c0                WWDG_IRQHandler
-                0x080020c0                DMA1_Channel2_3_IRQHandler
-                0x080020c0                FLASH_IRQHandler
-                0x080020c0                TIM1_BRK_UP_TRG_COM_IRQHandler
- .text.memcpy   0x080020c2       0x12 c:/users/t9569bk/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libc_s.a(lib_a-memcpy-stub.o)
-                0x080020c2                memcpy
+                0x080020d0        0x2 .pioenvs\Generic_STM32F030K6\libFrameworkCMSISDevice.a(startup_stm32f030x6.o)
+                0x080020d0                TIM1_CC_IRQHandler
+                0x080020d0                I2C1_IRQHandler
+                0x080020d0                SPI1_IRQHandler
+                0x080020d0                EXTI2_3_IRQHandler
+                0x080020d0                TIM17_IRQHandler
+                0x080020d0                RTC_IRQHandler
+                0x080020d0                TIM16_IRQHandler
+                0x080020d0                TIM3_IRQHandler
+                0x080020d0                EXTI4_15_IRQHandler
+                0x080020d0                RCC_IRQHandler
+                0x080020d0                DMA1_Channel1_IRQHandler
+                0x080020d0                Default_Handler
+                0x080020d0                TIM14_IRQHandler
+                0x080020d0                DMA1_Channel4_5_IRQHandler
+                0x080020d0                EXTI0_1_IRQHandler
+                0x080020d0                WWDG_IRQHandler
+                0x080020d0                DMA1_Channel2_3_IRQHandler
+                0x080020d0                FLASH_IRQHandler
+                0x080020d0                TIM1_BRK_UP_TRG_COM_IRQHandler
+ .text.memcpy   0x080020d2       0x12 c:/users/balazs/.platformio/packages/toolchain-gccarmnoneeabi@1.40804.0/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libc_s.a(lib_a-memcpy-stub.o)
+                0x080020d2                memcpy
  *(.glue_7)
  .glue_7        0x00000000        0x0 linker stubs
  *(.glue_7t)
  .glue_7t       0x00000000        0x0 linker stubs
  *(.eh_frame)
- .eh_frame      0x080020d4        0x0 c:/users/t9569bk/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/crtbegin.o
+ .eh_frame      0x080020e4        0x0 c:/users/balazs/.platformio/packages/toolchain-gccarmnoneeabi@1.40804.0/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/crtbegin.o
  *(.init)
- .init          0x080020d4        0x4 c:/users/t9569bk/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/crti.o
-                0x080020d4                _init
- .init          0x080020d8        0x8 c:/users/t9569bk/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/crtn.o
+ .init          0x080020e4        0x4 c:/users/balazs/.platformio/packages/toolchain-gccarmnoneeabi@1.40804.0/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/crti.o
+                0x080020e4                _init
+ .init          0x080020e8        0x8 c:/users/balazs/.platformio/packages/toolchain-gccarmnoneeabi@1.40804.0/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/crtn.o
  *(.fini)
- .fini          0x080020e0        0x4 c:/users/t9569bk/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/crti.o
-                0x080020e0                _fini
- .fini          0x080020e4        0x8 c:/users/t9569bk/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/crtn.o
-                0x080020ec                . = ALIGN (0x4)
-                0x080020ec                _etext = .
+ .fini          0x080020f0        0x4 c:/users/balazs/.platformio/packages/toolchain-gccarmnoneeabi@1.40804.0/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/crti.o
+                0x080020f0                _fini
+ .fini          0x080020f4        0x8 c:/users/balazs/.platformio/packages/toolchain-gccarmnoneeabi@1.40804.0/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/crtn.o
+                0x080020fc                . = ALIGN (0x4)
+                0x080020fc                _etext = .
 
-.vfp11_veneer   0x080020ec        0x0
+.vfp11_veneer   0x080020fc        0x0
  .vfp11_veneer  0x00000000        0x0 linker stubs
 
-.v4_bx          0x080020ec        0x0
+.v4_bx          0x080020fc        0x0
  .v4_bx         0x00000000        0x0 linker stubs
 
-.iplt           0x080020ec        0x0
- .iplt          0x00000000        0x0 c:/users/t9569bk/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/crtbegin.o
+.iplt           0x080020fc        0x0
+ .iplt          0x00000000        0x0 c:/users/balazs/.platformio/packages/toolchain-gccarmnoneeabi@1.40804.0/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/crtbegin.o
 
-.rodata         0x080020ec       0x44
-                0x080020ec                . = ALIGN (0x4)
+.rodata         0x080020fc       0x44
+                0x080020fc                . = ALIGN (0x4)
  *(.rodata)
- .rodata        0x080020ec       0x20 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_rcc.o)
+ .rodata        0x080020fc       0x20 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_rcc.o)
  *(.rodata*)
  .rodata.str1.4
-                0x0800210c        0x4 c:/users/t9569bk/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-impure.o)
+                0x0800211c        0x4 c:/users/balazs/.platformio/packages/toolchain-gccarmnoneeabi@1.40804.0/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-impure.o)
  .rodata._global_impure_ptr
-                0x08002110        0x4 c:/users/t9569bk/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-impure.o)
-                0x08002110                _global_impure_ptr
+                0x08002120        0x4 c:/users/balazs/.platformio/packages/toolchain-gccarmnoneeabi@1.40804.0/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-impure.o)
+                0x08002120                _global_impure_ptr
  .rodata.AHBPrescTable
-                0x08002114       0x10 .pioenvs\Generic_STM32F030K6\src\system_stm32f0xx.o
-                0x08002114                AHBPrescTable
+                0x08002124       0x10 .pioenvs\Generic_STM32F030K6\src\system_stm32f0xx.o
+                0x08002124                AHBPrescTable
  .rodata.APBPrescTable
-                0x08002124        0x8 .pioenvs\Generic_STM32F030K6\src\system_stm32f0xx.o
-                0x08002124                APBPrescTable
+                0x08002134        0x8 .pioenvs\Generic_STM32F030K6\src\system_stm32f0xx.o
+                0x08002134                APBPrescTable
  .rodata.CSWTCH.50
-                0x0800212c        0x4 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_uart.o)
-                0x08002130                . = ALIGN (0x4)
+                0x0800213c        0x4 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_uart.o)
+                0x08002140                . = ALIGN (0x4)
 
-.rel.dyn        0x08002130        0x0
- .rel.iplt      0x00000000        0x0 c:/users/t9569bk/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/crtbegin.o
+.rel.dyn        0x08002140        0x0
+ .rel.iplt      0x00000000        0x0 c:/users/balazs/.platformio/packages/toolchain-gccarmnoneeabi@1.40804.0/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/crtbegin.o
 
 .ARM.extab
  *(.ARM.extab* .gnu.linkonce.armextab.*)
 
-.ARM            0x08002130        0x0
-                0x08002130                __exidx_start = .
+.ARM            0x08002140        0x0
+                0x08002140                __exidx_start = .
  *(.ARM.exidx*)
-                0x08002130                __exidx_end = .
+                0x08002140                __exidx_end = .
 
-.preinit_array  0x08002130        0x0
-                0x08002130                PROVIDE (__preinit_array_start, .)
+.preinit_array  0x08002140        0x0
+                0x08002140                PROVIDE (__preinit_array_start, .)
  *(.preinit_array*)
-                0x08002130                PROVIDE (__preinit_array_end, .)
+                0x08002140                PROVIDE (__preinit_array_end, .)
 
-.init_array     0x08002130        0x8
-                0x08002130                PROVIDE (__init_array_start, .)
+.init_array     0x08002140        0x8
+                0x08002140                PROVIDE (__init_array_start, .)
  *(SORT(.init_array.*))
  .init_array.00000
-                0x08002130        0x4 c:/users/t9569bk/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-__call_atexit.o)
+                0x08002140        0x4 c:/users/balazs/.platformio/packages/toolchain-gccarmnoneeabi@1.40804.0/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-__call_atexit.o)
  *(.init_array*)
- .init_array    0x08002134        0x4 c:/users/t9569bk/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/crtbegin.o
-                0x08002138                PROVIDE (__init_array_end, .)
+ .init_array    0x08002144        0x4 c:/users/balazs/.platformio/packages/toolchain-gccarmnoneeabi@1.40804.0/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/crtbegin.o
+                0x08002148                PROVIDE (__init_array_end, .)
 
-.fini_array     0x08002138        0x4
-                0x08002138                PROVIDE (__fini_array_start, .)
+.fini_array     0x08002148        0x4
+                0x08002148                PROVIDE (__fini_array_start, .)
  *(SORT(.fini_array.*))
  *(.fini_array*)
- .fini_array    0x08002138        0x4 c:/users/t9569bk/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/crtbegin.o
-                0x0800213c                PROVIDE (__fini_array_end, .)
-                0x0800213c                _sidata = LOADADDR (.data)
+ .fini_array    0x08002148        0x4 c:/users/balazs/.platformio/packages/toolchain-gccarmnoneeabi@1.40804.0/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/crtbegin.o
+                0x0800214c                PROVIDE (__fini_array_end, .)
+                0x0800214c                _sidata = LOADADDR (.data)
 
-.data           0x20000000      0x42c load address 0x0800213c
+.data           0x20000000      0x42c load address 0x0800214c
                 0x20000000                . = ALIGN (0x4)
                 0x20000000                _sdata = .
  *(.data)
  *(.data*)
  .data.impure_data
-                0x20000000      0x428 c:/users/t9569bk/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-impure.o)
+                0x20000000      0x428 c:/users/balazs/.platformio/packages/toolchain-gccarmnoneeabi@1.40804.0/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-impure.o)
  .data.SystemCoreClock
                 0x20000428        0x4 .pioenvs\Generic_STM32F030K6\src\system_stm32f0xx.o
                 0x20000428                SystemCoreClock
                 0x2000042c                . = ALIGN (0x4)
                 0x2000042c                _edata = .
 
-.jcr            0x2000042c        0x0 load address 0x08002568
- .jcr           0x2000042c        0x0 c:/users/t9569bk/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/crtbegin.o
+.jcr            0x2000042c        0x0 load address 0x08002578
+ .jcr           0x2000042c        0x0 c:/users/balazs/.platformio/packages/toolchain-gccarmnoneeabi@1.40804.0/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/crtbegin.o
 
-.igot.plt       0x2000042c        0x0 load address 0x08002568
- .igot.plt      0x00000000        0x0 c:/users/t9569bk/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/crtbegin.o
+.igot.plt       0x2000042c        0x0 load address 0x08002578
+ .igot.plt      0x00000000        0x0 c:/users/balazs/.platformio/packages/toolchain-gccarmnoneeabi@1.40804.0/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/crtbegin.o
                 0x2000042c                . = ALIGN (0x4)
 
-.bss            0x2000042c      0x1c0 load address 0x08002568
+.bss            0x2000042c      0x1c0 load address 0x08002578
                 0x2000042c                _sbss = .
                 0x2000042c                __bss_start__ = _sbss
  *(.bss)
- .bss           0x2000042c       0x1c c:/users/t9569bk/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/crtbegin.o
+ .bss           0x2000042c       0x1c c:/users/balazs/.platformio/packages/toolchain-gccarmnoneeabi@1.40804.0/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/crtbegin.o
  *(.bss*)
  *(COMMON)
  COMMON         0x20000448       0x4c .pioenvs\Generic_STM32F030K6\src\adc.o
@@ -1243,7 +1247,7 @@ LOAD c:/users/t9569bk/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/g
                 0x200005ec                __bss_end__ = _ebss
 
 ._user_heap_stack
-                0x200005ec      0x600 load address 0x08002568
+                0x200005ec      0x600 load address 0x08002578
                 0x200005ec                . = ALIGN (0x4)
                 0x200005ec                PROVIDE (end, .)
                 0x200005ec                PROVIDE (_end, .)
@@ -1262,9 +1266,9 @@ LOAD c:/users/t9569bk/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/g
                 0x00000000       0x28
  *(.ARM.attributes)
  .ARM.attributes
-                0x00000000       0x1e c:/users/t9569bk/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/crti.o
+                0x00000000       0x1e c:/users/balazs/.platformio/packages/toolchain-gccarmnoneeabi@1.40804.0/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/crti.o
  .ARM.attributes
-                0x0000001e       0x2c c:/users/t9569bk/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/crtbegin.o
+                0x0000001e       0x2c c:/users/balazs/.platformio/packages/toolchain-gccarmnoneeabi@1.40804.0/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/crtbegin.o
  .ARM.attributes
                 0x0000004a       0x31 .pioenvs\Generic_STM32F030K6\src\adc.o
  .ARM.attributes
@@ -1286,9 +1290,9 @@ LOAD c:/users/t9569bk/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/g
  .ARM.attributes
                 0x00000203       0x31 .pioenvs\Generic_STM32F030K6\src\usart.o
  .ARM.attributes
-                0x00000234       0x1e c:/users/t9569bk/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m\libgcc.a(_udivsi3.o)
+                0x00000234       0x1e c:/users/balazs/.platformio/packages/toolchain-gccarmnoneeabi@1.40804.0/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m\libgcc.a(_udivsi3.o)
  .ARM.attributes
-                0x00000252       0x1e c:/users/t9569bk/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m\libgcc.a(_dvmd_tls.o)
+                0x00000252       0x1e c:/users/balazs/.platformio/packages/toolchain-gccarmnoneeabi@1.40804.0/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m\libgcc.a(_dvmd_tls.o)
  .ARM.attributes
                 0x00000270       0x31 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal.o)
  .ARM.attributes
@@ -1316,11 +1320,11 @@ LOAD c:/users/t9569bk/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/g
  .ARM.attributes
                 0x000004bc       0x21 .pioenvs\Generic_STM32F030K6\libFrameworkCMSISDevice.a(startup_stm32f030x6.o)
  .ARM.attributes
-                0x000004dd       0x2c c:/users/t9569bk/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libc_s.a(lib_a-memcpy-stub.o)
+                0x000004dd       0x2c c:/users/balazs/.platformio/packages/toolchain-gccarmnoneeabi@1.40804.0/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libc_s.a(lib_a-memcpy-stub.o)
  .ARM.attributes
-                0x00000509       0x1e c:/users/t9569bk/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m\libgcc.a(_thumb1_case_uqi.o)
+                0x00000509       0x1e c:/users/balazs/.platformio/packages/toolchain-gccarmnoneeabi@1.40804.0/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m\libgcc.a(_thumb1_case_uqi.o)
  .ARM.attributes
-                0x00000527       0x1e c:/users/t9569bk/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/crtn.o
+                0x00000527       0x1e c:/users/balazs/.platformio/packages/toolchain-gccarmnoneeabi@1.40804.0/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/crtn.o
 LOAD .pioenvs\Generic_STM32F030K6\src\adc.o
 LOAD .pioenvs\Generic_STM32F030K6\src\gpio.o
 LOAD .pioenvs\Generic_STM32F030K6\src\main.o
@@ -1332,102 +1336,103 @@ LOAD .pioenvs\Generic_STM32F030K6\src\system_stm32f0xx.o
 LOAD .pioenvs\Generic_STM32F030K6\src\tim.o
 LOAD .pioenvs\Generic_STM32F030K6\src\usart.o
 START GROUP
-LOAD c:/users/t9569bk/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libc_s.a
-LOAD c:/users/t9569bk/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m\libgcc.a
-LOAD c:/users/t9569bk/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libm.a
-LOAD c:/users/t9569bk/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libstdc++_s.a
-LOAD c:/users/t9569bk/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libnosys.a
+LOAD c:/users/balazs/.platformio/packages/toolchain-gccarmnoneeabi@1.40804.0/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libc_s.a
+LOAD c:/users/balazs/.platformio/packages/toolchain-gccarmnoneeabi@1.40804.0/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m\libgcc.a
+LOAD c:/users/balazs/.platformio/packages/toolchain-gccarmnoneeabi@1.40804.0/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libm.a
+LOAD c:/users/balazs/.platformio/packages/toolchain-gccarmnoneeabi@1.40804.0/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libstdc++_s.a
+LOAD c:/users/balazs/.platformio/packages/toolchain-gccarmnoneeabi@1.40804.0/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libnosys.a
 LOAD .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a
 LOAD .pioenvs\Generic_STM32F030K6\libFrameworkCMSISDevice.a
 END GROUP
 START GROUP
-LOAD c:/users/t9569bk/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m\libgcc.a
-LOAD c:/users/t9569bk/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libc_s.a
+LOAD c:/users/balazs/.platformio/packages/toolchain-gccarmnoneeabi@1.40804.0/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m\libgcc.a
+LOAD c:/users/balazs/.platformio/packages/toolchain-gccarmnoneeabi@1.40804.0/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libc_s.a
 END GROUP
 START GROUP
-LOAD c:/users/t9569bk/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m\libgcc.a
-LOAD c:/users/t9569bk/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libc_s.a
-LOAD c:/users/t9569bk/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libnosys.a
+LOAD c:/users/balazs/.platformio/packages/toolchain-gccarmnoneeabi@1.40804.0/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m\libgcc.a
+LOAD c:/users/balazs/.platformio/packages/toolchain-gccarmnoneeabi@1.40804.0/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libc_s.a
+LOAD c:/users/balazs/.platformio/packages/toolchain-gccarmnoneeabi@1.40804.0/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libnosys.a
 END GROUP
 START GROUP
-LOAD c:/users/t9569bk/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m\libgcc.a
-LOAD c:/users/t9569bk/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libc_s.a
-LOAD c:/users/t9569bk/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libnosys.a
+LOAD c:/users/balazs/.platformio/packages/toolchain-gccarmnoneeabi@1.40804.0/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m\libgcc.a
+LOAD c:/users/balazs/.platformio/packages/toolchain-gccarmnoneeabi@1.40804.0/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libc_s.a
+LOAD c:/users/balazs/.platformio/packages/toolchain-gccarmnoneeabi@1.40804.0/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libnosys.a
 END GROUP
-LOAD c:/users/t9569bk/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/crtend.o
-LOAD c:/users/t9569bk/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/crtn.o
+LOAD c:/users/balazs/.platformio/packages/toolchain-gccarmnoneeabi@1.40804.0/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/crtend.o
+LOAD c:/users/balazs/.platformio/packages/toolchain-gccarmnoneeabi@1.40804.0/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/crtn.o
 OUTPUT(.pioenvs\Generic_STM32F030K6\firmware.elf elf32-littlearm)
 
-.debug_info     0x00000000    0x1004a
+.debug_info     0x00000000    0x10106
  .debug_info    0x00000000      0x997 .pioenvs\Generic_STM32F030K6\src\adc.o
  .debug_info    0x00000997      0x434 .pioenvs\Generic_STM32F030K6\src\gpio.o
  .debug_info    0x00000dcb      0x4ed .pioenvs\Generic_STM32F030K6\src\main.o
- .debug_info    0x000012b8      0x727 .pioenvs\Generic_STM32F030K6\src\pwm.o
- .debug_info    0x000019df      0x85d .pioenvs\Generic_STM32F030K6\src\spi.o
- .debug_info    0x0000223c      0x2a5 .pioenvs\Generic_STM32F030K6\src\stm32f0xx_hal_msp.o
- .debug_info    0x000024e1      0x887 .pioenvs\Generic_STM32F030K6\src\stm32f0xx_it.o
- .debug_info    0x00002d68      0x23b .pioenvs\Generic_STM32F030K6\src\system_stm32f0xx.o
- .debug_info    0x00002fa3      0xceb .pioenvs\Generic_STM32F030K6\src\tim.o
- .debug_info    0x00003c8e      0xa01 .pioenvs\Generic_STM32F030K6\src\usart.o
- .debug_info    0x0000468f      0x57e .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal.o)
- .debug_info    0x00004c0d      0xe42 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_adc.o)
- .debug_info    0x00005a4f      0x76c .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_cortex.o)
- .debug_info    0x000061bb      0x78c .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_dma.o)
- .debug_info    0x00006947      0x5c6 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_gpio.o)
- .debug_info    0x00006f0d      0x7b5 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_i2c_ex.o)
- .debug_info    0x000076c2      0x9c2 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_rcc.o)
- .debug_info    0x00008084      0x383 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_rcc_ex.o)
- .debug_info    0x00008407     0x1dd3 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_spi.o)
- .debug_info    0x0000a1da     0x32fa .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_tim.o)
- .debug_info    0x0000d4d4     0x1246 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_tim_ex.o)
- .debug_info    0x0000e71a     0x184a .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_uart.o)
- .debug_info    0x0000ff64       0xe6 .pioenvs\Generic_STM32F030K6\libFrameworkCMSISDevice.a(startup_stm32f030x6.o)
+ .debug_info    0x000012b8      0x803 .pioenvs\Generic_STM32F030K6\src\pwm.o
+ .debug_info    0x00001abb      0x85d .pioenvs\Generic_STM32F030K6\src\spi.o
+ .debug_info    0x00002318      0x2a5 .pioenvs\Generic_STM32F030K6\src\stm32f0xx_hal_msp.o
+ .debug_info    0x000025bd      0x887 .pioenvs\Generic_STM32F030K6\src\stm32f0xx_it.o
+ .debug_info    0x00002e44      0x23b .pioenvs\Generic_STM32F030K6\src\system_stm32f0xx.o
+ .debug_info    0x0000307f      0xceb .pioenvs\Generic_STM32F030K6\src\tim.o
+ .debug_info    0x00003d6a      0xa01 .pioenvs\Generic_STM32F030K6\src\usart.o
+ .debug_info    0x0000476b      0x57e .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal.o)
+ .debug_info    0x00004ce9      0xe42 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_adc.o)
+ .debug_info    0x00005b2b      0x76c .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_cortex.o)
+ .debug_info    0x00006297      0x78c .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_dma.o)
+ .debug_info    0x00006a23      0x5c6 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_gpio.o)
+ .debug_info    0x00006fe9      0x7b5 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_i2c_ex.o)
+ .debug_info    0x0000779e      0x9c2 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_rcc.o)
+ .debug_info    0x00008160      0x383 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_rcc_ex.o)
+ .debug_info    0x000084e3     0x1dd3 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_spi.o)
+ .debug_info    0x0000a2b6     0x32fa .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_tim.o)
+ .debug_info    0x0000d5b0     0x1246 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_tim_ex.o)
+ .debug_info    0x0000e7f6     0x184a .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_uart.o)
+ .debug_info    0x00010040       0xc6 .pioenvs\Generic_STM32F030K6\libFrameworkCMSISDevice.a(startup_stm32f030x6.o)
 
-.debug_abbrev   0x00000000     0x2a85
+.debug_abbrev   0x00000000     0x2ab5
  .debug_abbrev  0x00000000      0x1d6 .pioenvs\Generic_STM32F030K6\src\adc.o
  .debug_abbrev  0x000001d6      0x142 .pioenvs\Generic_STM32F030K6\src\gpio.o
  .debug_abbrev  0x00000318      0x1bb .pioenvs\Generic_STM32F030K6\src\main.o
- .debug_abbrev  0x000004d3      0x17a .pioenvs\Generic_STM32F030K6\src\pwm.o
- .debug_abbrev  0x0000064d      0x1c3 .pioenvs\Generic_STM32F030K6\src\spi.o
- .debug_abbrev  0x00000810       0xfa .pioenvs\Generic_STM32F030K6\src\stm32f0xx_hal_msp.o
- .debug_abbrev  0x0000090a      0x17b .pioenvs\Generic_STM32F030K6\src\stm32f0xx_it.o
- .debug_abbrev  0x00000a85       0xf0 .pioenvs\Generic_STM32F030K6\src\system_stm32f0xx.o
- .debug_abbrev  0x00000b75      0x257 .pioenvs\Generic_STM32F030K6\src\tim.o
- .debug_abbrev  0x00000dcc      0x1d6 .pioenvs\Generic_STM32F030K6\src\usart.o
- .debug_abbrev  0x00000fa2      0x207 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal.o)
- .debug_abbrev  0x000011a9      0x2a2 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_adc.o)
- .debug_abbrev  0x0000144b      0x239 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_cortex.o)
- .debug_abbrev  0x00001684      0x1db .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_dma.o)
- .debug_abbrev  0x0000185f      0x1cf .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_gpio.o)
- .debug_abbrev  0x00001a2e      0x1a3 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_i2c_ex.o)
- .debug_abbrev  0x00001bd1      0x290 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_rcc.o)
- .debug_abbrev  0x00001e61      0x17a .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_rcc_ex.o)
- .debug_abbrev  0x00001fdb      0x2a0 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_spi.o)
- .debug_abbrev  0x0000227b      0x305 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_tim.o)
- .debug_abbrev  0x00002580      0x227 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_tim_ex.o)
- .debug_abbrev  0x000027a7      0x2cc .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_uart.o)
- .debug_abbrev  0x00002a73       0x12 .pioenvs\Generic_STM32F030K6\libFrameworkCMSISDevice.a(startup_stm32f030x6.o)
+ .debug_abbrev  0x000004d3      0x1aa .pioenvs\Generic_STM32F030K6\src\pwm.o
+ .debug_abbrev  0x0000067d      0x1c3 .pioenvs\Generic_STM32F030K6\src\spi.o
+ .debug_abbrev  0x00000840       0xfa .pioenvs\Generic_STM32F030K6\src\stm32f0xx_hal_msp.o
+ .debug_abbrev  0x0000093a      0x17b .pioenvs\Generic_STM32F030K6\src\stm32f0xx_it.o
+ .debug_abbrev  0x00000ab5       0xf0 .pioenvs\Generic_STM32F030K6\src\system_stm32f0xx.o
+ .debug_abbrev  0x00000ba5      0x257 .pioenvs\Generic_STM32F030K6\src\tim.o
+ .debug_abbrev  0x00000dfc      0x1d6 .pioenvs\Generic_STM32F030K6\src\usart.o
+ .debug_abbrev  0x00000fd2      0x207 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal.o)
+ .debug_abbrev  0x000011d9      0x2a2 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_adc.o)
+ .debug_abbrev  0x0000147b      0x239 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_cortex.o)
+ .debug_abbrev  0x000016b4      0x1db .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_dma.o)
+ .debug_abbrev  0x0000188f      0x1cf .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_gpio.o)
+ .debug_abbrev  0x00001a5e      0x1a3 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_i2c_ex.o)
+ .debug_abbrev  0x00001c01      0x290 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_rcc.o)
+ .debug_abbrev  0x00001e91      0x17a .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_rcc_ex.o)
+ .debug_abbrev  0x0000200b      0x2a0 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_spi.o)
+ .debug_abbrev  0x000022ab      0x305 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_tim.o)
+ .debug_abbrev  0x000025b0      0x227 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_tim_ex.o)
+ .debug_abbrev  0x000027d7      0x2cc .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_uart.o)
+ .debug_abbrev  0x00002aa3       0x12 .pioenvs\Generic_STM32F030K6\libFrameworkCMSISDevice.a(startup_stm32f030x6.o)
 
-.debug_loc      0x00000000     0x970a
+.debug_loc      0x00000000     0x977a
  .debug_loc     0x00000000       0x42 .pioenvs\Generic_STM32F030K6\src\adc.o
- .debug_loc     0x00000042       0x42 .pioenvs\Generic_STM32F030K6\src\spi.o
- .debug_loc     0x00000084      0x133 .pioenvs\Generic_STM32F030K6\src\system_stm32f0xx.o
- .debug_loc     0x000001b7       0x5b .pioenvs\Generic_STM32F030K6\src\tim.o
- .debug_loc     0x00000212       0x42 .pioenvs\Generic_STM32F030K6\src\usart.o
- .debug_loc     0x00000254       0x6a .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal.o)
- .debug_loc     0x000002be      0x9f6 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_adc.o)
- .debug_loc     0x00000cb4      0x2c0 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_cortex.o)
- .debug_loc     0x00000f74      0x78e .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_dma.o)
- .debug_loc     0x00001702      0x3a3 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_gpio.o)
- .debug_loc     0x00001aa5      0x129 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_i2c_ex.o)
- .debug_loc     0x00001bce      0x3c2 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_rcc.o)
- .debug_loc     0x00001f90      0x23f .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_rcc_ex.o)
- .debug_loc     0x000021cf     0x1721 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_spi.o)
- .debug_loc     0x000038f0     0x3b0b .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_tim.o)
- .debug_loc     0x000073fb      0xfa0 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_tim_ex.o)
- .debug_loc     0x0000839b     0x136f .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_uart.o)
+ .debug_loc     0x00000042       0x70 .pioenvs\Generic_STM32F030K6\src\pwm.o
+ .debug_loc     0x000000b2       0x42 .pioenvs\Generic_STM32F030K6\src\spi.o
+ .debug_loc     0x000000f4      0x133 .pioenvs\Generic_STM32F030K6\src\system_stm32f0xx.o
+ .debug_loc     0x00000227       0x5b .pioenvs\Generic_STM32F030K6\src\tim.o
+ .debug_loc     0x00000282       0x42 .pioenvs\Generic_STM32F030K6\src\usart.o
+ .debug_loc     0x000002c4       0x6a .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal.o)
+ .debug_loc     0x0000032e      0x9f6 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_adc.o)
+ .debug_loc     0x00000d24      0x2c0 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_cortex.o)
+ .debug_loc     0x00000fe4      0x78e .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_dma.o)
+ .debug_loc     0x00001772      0x3a3 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_gpio.o)
+ .debug_loc     0x00001b15      0x129 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_i2c_ex.o)
+ .debug_loc     0x00001c3e      0x3c2 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_rcc.o)
+ .debug_loc     0x00002000      0x23f .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_rcc_ex.o)
+ .debug_loc     0x0000223f     0x1721 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_spi.o)
+ .debug_loc     0x00003960     0x3b0b .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_tim.o)
+ .debug_loc     0x0000746b      0xfa0 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_tim_ex.o)
+ .debug_loc     0x0000840b     0x136f .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_uart.o)
 
-.debug_aranges  0x00000000      0xdf0
+.debug_aranges  0x00000000      0xdf8
  .debug_aranges
                 0x00000000       0x30 .pioenvs\Generic_STM32F030K6\src\adc.o
  .debug_aranges
@@ -1435,141 +1440,141 @@ OUTPUT(.pioenvs\Generic_STM32F030K6\firmware.elf elf32-littlearm)
  .debug_aranges
                 0x00000050       0x30 .pioenvs\Generic_STM32F030K6\src\main.o
  .debug_aranges
-                0x00000080       0x28 .pioenvs\Generic_STM32F030K6\src\pwm.o
+                0x00000080       0x30 .pioenvs\Generic_STM32F030K6\src\pwm.o
  .debug_aranges
-                0x000000a8       0x30 .pioenvs\Generic_STM32F030K6\src\spi.o
+                0x000000b0       0x30 .pioenvs\Generic_STM32F030K6\src\spi.o
  .debug_aranges
-                0x000000d8       0x20 .pioenvs\Generic_STM32F030K6\src\stm32f0xx_hal_msp.o
+                0x000000e0       0x20 .pioenvs\Generic_STM32F030K6\src\stm32f0xx_hal_msp.o
  .debug_aranges
-                0x000000f8       0x50 .pioenvs\Generic_STM32F030K6\src\stm32f0xx_it.o
+                0x00000100       0x50 .pioenvs\Generic_STM32F030K6\src\stm32f0xx_it.o
  .debug_aranges
-                0x00000148       0x28 .pioenvs\Generic_STM32F030K6\src\system_stm32f0xx.o
+                0x00000150       0x28 .pioenvs\Generic_STM32F030K6\src\system_stm32f0xx.o
  .debug_aranges
-                0x00000170       0x40 .pioenvs\Generic_STM32F030K6\src\tim.o
+                0x00000178       0x40 .pioenvs\Generic_STM32F030K6\src\tim.o
  .debug_aranges
-                0x000001b0       0x30 .pioenvs\Generic_STM32F030K6\src\usart.o
+                0x000001b8       0x30 .pioenvs\Generic_STM32F030K6\src\usart.o
  .debug_aranges
-                0x000001e0       0xa0 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal.o)
+                0x000001e8       0xa0 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal.o)
  .debug_aranges
-                0x00000280       0xf8 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_adc.o)
+                0x00000288       0xf8 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_adc.o)
  .debug_aranges
-                0x00000378       0x78 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_cortex.o)
+                0x00000380       0x78 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_cortex.o)
  .debug_aranges
-                0x000003f0       0x78 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_dma.o)
+                0x000003f8       0x78 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_dma.o)
  .debug_aranges
-                0x00000468       0x58 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_gpio.o)
+                0x00000470       0x58 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_gpio.o)
  .debug_aranges
-                0x000004c0       0x38 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_i2c_ex.o)
+                0x000004c8       0x38 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_i2c_ex.o)
  .debug_aranges
-                0x000004f8       0x80 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_rcc.o)
+                0x00000500       0x80 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_rcc.o)
  .debug_aranges
-                0x00000578       0x30 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_rcc_ex.o)
+                0x00000580       0x30 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_rcc_ex.o)
  .debug_aranges
-                0x000005a8      0x1d8 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_spi.o)
+                0x000005b0      0x1d8 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_spi.o)
  .debug_aranges
-                0x00000780      0x338 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_tim.o)
+                0x00000788      0x338 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_tim.o)
  .debug_aranges
-                0x00000ab8      0x140 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_tim_ex.o)
+                0x00000ac0      0x140 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_tim_ex.o)
  .debug_aranges
-                0x00000bf8      0x1d0 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_uart.o)
+                0x00000c00      0x1d0 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_uart.o)
  .debug_aranges
-                0x00000dc8       0x28 .pioenvs\Generic_STM32F030K6\libFrameworkCMSISDevice.a(startup_stm32f030x6.o)
+                0x00000dd0       0x28 .pioenvs\Generic_STM32F030K6\libFrameworkCMSISDevice.a(startup_stm32f030x6.o)
 
-.debug_ranges   0x00000000     0x1140
+.debug_ranges   0x00000000     0x1178
  .debug_ranges  0x00000000       0x40 .pioenvs\Generic_STM32F030K6\src\adc.o
  .debug_ranges  0x00000040       0x68 .pioenvs\Generic_STM32F030K6\src\gpio.o
  .debug_ranges  0x000000a8       0x20 .pioenvs\Generic_STM32F030K6\src\main.o
- .debug_ranges  0x000000c8       0x18 .pioenvs\Generic_STM32F030K6\src\pwm.o
- .debug_ranges  0x000000e0       0x38 .pioenvs\Generic_STM32F030K6\src\spi.o
- .debug_ranges  0x00000118       0x40 .pioenvs\Generic_STM32F030K6\src\stm32f0xx_hal_msp.o
- .debug_ranges  0x00000158       0x40 .pioenvs\Generic_STM32F030K6\src\stm32f0xx_it.o
- .debug_ranges  0x00000198       0x18 .pioenvs\Generic_STM32F030K6\src\system_stm32f0xx.o
- .debug_ranges  0x000001b0       0x30 .pioenvs\Generic_STM32F030K6\src\tim.o
- .debug_ranges  0x000001e0       0x38 .pioenvs\Generic_STM32F030K6\src\usart.o
- .debug_ranges  0x00000218       0x90 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal.o)
- .debug_ranges  0x000002a8       0xe8 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_adc.o)
- .debug_ranges  0x00000390       0xc8 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_cortex.o)
- .debug_ranges  0x00000458       0xc8 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_dma.o)
- .debug_ranges  0x00000520       0x48 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_gpio.o)
- .debug_ranges  0x00000568       0x58 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_i2c_ex.o)
- .debug_ranges  0x000005c0       0xb0 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_rcc.o)
- .debug_ranges  0x00000670       0x38 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_rcc_ex.o)
- .debug_ranges  0x000006a8      0x2a0 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_spi.o)
- .debug_ranges  0x00000948      0x470 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_tim.o)
- .debug_ranges  0x00000db8      0x130 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_tim_ex.o)
- .debug_ranges  0x00000ee8      0x238 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_uart.o)
- .debug_ranges  0x00001120       0x20 .pioenvs\Generic_STM32F030K6\libFrameworkCMSISDevice.a(startup_stm32f030x6.o)
+ .debug_ranges  0x000000c8       0x50 .pioenvs\Generic_STM32F030K6\src\pwm.o
+ .debug_ranges  0x00000118       0x38 .pioenvs\Generic_STM32F030K6\src\spi.o
+ .debug_ranges  0x00000150       0x40 .pioenvs\Generic_STM32F030K6\src\stm32f0xx_hal_msp.o
+ .debug_ranges  0x00000190       0x40 .pioenvs\Generic_STM32F030K6\src\stm32f0xx_it.o
+ .debug_ranges  0x000001d0       0x18 .pioenvs\Generic_STM32F030K6\src\system_stm32f0xx.o
+ .debug_ranges  0x000001e8       0x30 .pioenvs\Generic_STM32F030K6\src\tim.o
+ .debug_ranges  0x00000218       0x38 .pioenvs\Generic_STM32F030K6\src\usart.o
+ .debug_ranges  0x00000250       0x90 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal.o)
+ .debug_ranges  0x000002e0       0xe8 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_adc.o)
+ .debug_ranges  0x000003c8       0xc8 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_cortex.o)
+ .debug_ranges  0x00000490       0xc8 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_dma.o)
+ .debug_ranges  0x00000558       0x48 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_gpio.o)
+ .debug_ranges  0x000005a0       0x58 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_i2c_ex.o)
+ .debug_ranges  0x000005f8       0xb0 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_rcc.o)
+ .debug_ranges  0x000006a8       0x38 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_rcc_ex.o)
+ .debug_ranges  0x000006e0      0x2a0 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_spi.o)
+ .debug_ranges  0x00000980      0x470 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_tim.o)
+ .debug_ranges  0x00000df0      0x130 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_tim_ex.o)
+ .debug_ranges  0x00000f20      0x238 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_uart.o)
+ .debug_ranges  0x00001158       0x20 .pioenvs\Generic_STM32F030K6\libFrameworkCMSISDevice.a(startup_stm32f030x6.o)
 
-.debug_line     0x00000000     0x7834
- .debug_line    0x00000000      0x2e7 .pioenvs\Generic_STM32F030K6\src\adc.o
- .debug_line    0x000002e7      0x239 .pioenvs\Generic_STM32F030K6\src\gpio.o
- .debug_line    0x00000520      0x2e4 .pioenvs\Generic_STM32F030K6\src\main.o
- .debug_line    0x00000804      0x24e .pioenvs\Generic_STM32F030K6\src\pwm.o
- .debug_line    0x00000a52      0x2a4 .pioenvs\Generic_STM32F030K6\src\spi.o
- .debug_line    0x00000cf6      0x216 .pioenvs\Generic_STM32F030K6\src\stm32f0xx_hal_msp.o
- .debug_line    0x00000f0c      0x2df .pioenvs\Generic_STM32F030K6\src\stm32f0xx_it.o
- .debug_line    0x000011eb      0x1cf .pioenvs\Generic_STM32F030K6\src\system_stm32f0xx.o
- .debug_line    0x000013ba      0x35a .pioenvs\Generic_STM32F030K6\src\tim.o
- .debug_line    0x00001714      0x2b8 .pioenvs\Generic_STM32F030K6\src\usart.o
- .debug_line    0x000019cc      0x437 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal.o)
- .debug_line    0x00001e03      0x836 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_adc.o)
- .debug_line    0x00002639      0x3ce .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_cortex.o)
- .debug_line    0x00002a07      0x4f3 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_dma.o)
- .debug_line    0x00002efa      0x3c8 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_gpio.o)
- .debug_line    0x000032c2      0x352 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_i2c_ex.o)
- .debug_line    0x00003614      0x58e .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_rcc.o)
- .debug_line    0x00003ba2      0x386 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_rcc_ex.o)
- .debug_line    0x00003f28      0xe0d .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_spi.o)
- .debug_line    0x00004d35     0x140d .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_tim.o)
- .debug_line    0x00006142      0x86b .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_tim_ex.o)
- .debug_line    0x000069ad      0xd9b .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_uart.o)
- .debug_line    0x00007748       0xec .pioenvs\Generic_STM32F030K6\libFrameworkCMSISDevice.a(startup_stm32f030x6.o)
+.debug_line     0x00000000     0x79ac
+ .debug_line    0x00000000      0x2f7 .pioenvs\Generic_STM32F030K6\src\adc.o
+ .debug_line    0x000002f7      0x249 .pioenvs\Generic_STM32F030K6\src\gpio.o
+ .debug_line    0x00000540      0x2f4 .pioenvs\Generic_STM32F030K6\src\main.o
+ .debug_line    0x00000834      0x283 .pioenvs\Generic_STM32F030K6\src\pwm.o
+ .debug_line    0x00000ab7      0x2b4 .pioenvs\Generic_STM32F030K6\src\spi.o
+ .debug_line    0x00000d6b      0x226 .pioenvs\Generic_STM32F030K6\src\stm32f0xx_hal_msp.o
+ .debug_line    0x00000f91      0x2ef .pioenvs\Generic_STM32F030K6\src\stm32f0xx_it.o
+ .debug_line    0x00001280      0x1e0 .pioenvs\Generic_STM32F030K6\src\system_stm32f0xx.o
+ .debug_line    0x00001460      0x36a .pioenvs\Generic_STM32F030K6\src\tim.o
+ .debug_line    0x000017ca      0x2c8 .pioenvs\Generic_STM32F030K6\src\usart.o
+ .debug_line    0x00001a92      0x445 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal.o)
+ .debug_line    0x00001ed7      0x845 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_adc.o)
+ .debug_line    0x0000271c      0x3dd .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_cortex.o)
+ .debug_line    0x00002af9      0x502 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_dma.o)
+ .debug_line    0x00002ffb      0x3d7 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_gpio.o)
+ .debug_line    0x000033d2      0x361 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_i2c_ex.o)
+ .debug_line    0x00003733      0x59d .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_rcc.o)
+ .debug_line    0x00003cd0      0x395 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_rcc_ex.o)
+ .debug_line    0x00004065      0xe1c .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_spi.o)
+ .debug_line    0x00004e81     0x141c .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_tim.o)
+ .debug_line    0x0000629d      0x87a .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_tim_ex.o)
+ .debug_line    0x00006b17      0xdaa .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_uart.o)
+ .debug_line    0x000078c1       0xeb .pioenvs\Generic_STM32F030K6\libFrameworkCMSISDevice.a(startup_stm32f030x6.o)
 
-.debug_str      0x00000000     0x40f8
- .debug_str     0x00000000      0x79f .pioenvs\Generic_STM32F030K6\src\adc.o
-                                0x828 (size before relaxing)
- .debug_str     0x0000079f       0x54 .pioenvs\Generic_STM32F030K6\src\gpio.o
-                                0x2b9 (size before relaxing)
- .debug_str     0x000007f3      0x283 .pioenvs\Generic_STM32F030K6\src\main.o
-                                0x5c9 (size before relaxing)
- .debug_str     0x00000a76      0x20a .pioenvs\Generic_STM32F030K6\src\pwm.o
-                                0x5b0 (size before relaxing)
- .debug_str     0x00000c80      0x232 .pioenvs\Generic_STM32F030K6\src\spi.o
-                                0x6e6 (size before relaxing)
- .debug_str     0x00000eb2       0x24 .pioenvs\Generic_STM32F030K6\src\stm32f0xx_hal_msp.o
-                                0x365 (size before relaxing)
- .debug_str     0x00000ed6      0x2e5 .pioenvs\Generic_STM32F030K6\src\stm32f0xx_it.o
-                                0x817 (size before relaxing)
- .debug_str     0x000011bb       0x83 .pioenvs\Generic_STM32F030K6\src\system_stm32f0xx.o
-                                0x264 (size before relaxing)
- .debug_str     0x0000123e      0x223 .pioenvs\Generic_STM32F030K6\src\tim.o
-                                0x8bc (size before relaxing)
- .debug_str     0x00001461       0x49 .pioenvs\Generic_STM32F030K6\src\usart.o
-                                0x916 (size before relaxing)
- .debug_str     0x000014aa      0x1f4 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal.o)
-                                0x5b9 (size before relaxing)
- .debug_str     0x0000169e      0x316 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_adc.o)
-                                0x8f3 (size before relaxing)
- .debug_str     0x000019b4      0x1a6 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_cortex.o)
-                                0x5e3 (size before relaxing)
- .debug_str     0x00001b5a      0x26d .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_dma.o)
-                                0x64c (size before relaxing)
- .debug_str     0x00001dc7      0x137 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_gpio.o)
-                                0x43d (size before relaxing)
- .debug_str     0x00001efe      0x34e .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_i2c_ex.o)
-                                0x7e9 (size before relaxing)
- .debug_str     0x0000224c      0x1e8 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_rcc.o)
-                                0x662 (size before relaxing)
- .debug_str     0x00002434       0xd1 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_rcc_ex.o)
-                                0x3ef (size before relaxing)
- .debug_str     0x00002505      0x549 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_spi.o)
-                                0xb85 (size before relaxing)
- .debug_str     0x00002a4e      0xc99 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_tim.o)
-                               0x136c (size before relaxing)
- .debug_str     0x000036e7      0x431 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_tim_ex.o)
-                                0xc2a (size before relaxing)
- .debug_str     0x00003b18      0x5e0 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_uart.o)
-                                0xd9d (size before relaxing)
+.debug_str      0x00000000     0x410f
+ .debug_str     0x00000000      0x780 .pioenvs\Generic_STM32F030K6\src\adc.o
+                                0x809 (size before relaxing)
+ .debug_str     0x00000780       0x54 .pioenvs\Generic_STM32F030K6\src\gpio.o
+                                0x29a (size before relaxing)
+ .debug_str     0x000007d4      0x283 .pioenvs\Generic_STM32F030K6\src\main.o
+                                0x5aa (size before relaxing)
+ .debug_str     0x00000a57      0x256 .pioenvs\Generic_STM32F030K6\src\pwm.o
+                                0x5f9 (size before relaxing)
+ .debug_str     0x00000cad      0x228 .pioenvs\Generic_STM32F030K6\src\spi.o
+                                0x6c7 (size before relaxing)
+ .debug_str     0x00000ed5       0x24 .pioenvs\Generic_STM32F030K6\src\stm32f0xx_hal_msp.o
+                                0x346 (size before relaxing)
+ .debug_str     0x00000ef9      0x2e5 .pioenvs\Generic_STM32F030K6\src\stm32f0xx_it.o
+                                0x7f8 (size before relaxing)
+ .debug_str     0x000011de       0x83 .pioenvs\Generic_STM32F030K6\src\system_stm32f0xx.o
+                                0x245 (size before relaxing)
+ .debug_str     0x00001261      0x223 .pioenvs\Generic_STM32F030K6\src\tim.o
+                                0x89d (size before relaxing)
+ .debug_str     0x00001484       0x49 .pioenvs\Generic_STM32F030K6\src\usart.o
+                                0x8f7 (size before relaxing)
+ .debug_str     0x000014cd      0x1f3 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal.o)
+                                0x599 (size before relaxing)
+ .debug_str     0x000016c0      0x315 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_adc.o)
+                                0x8d3 (size before relaxing)
+ .debug_str     0x000019d5      0x1a5 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_cortex.o)
+                                0x5c3 (size before relaxing)
+ .debug_str     0x00001b7a      0x26c .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_dma.o)
+                                0x62c (size before relaxing)
+ .debug_str     0x00001de6      0x136 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_gpio.o)
+                                0x41d (size before relaxing)
+ .debug_str     0x00001f1c      0x34d .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_i2c_ex.o)
+                                0x7c9 (size before relaxing)
+ .debug_str     0x00002269      0x1e7 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_rcc.o)
+                                0x642 (size before relaxing)
+ .debug_str     0x00002450       0xd0 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_rcc_ex.o)
+                                0x3cf (size before relaxing)
+ .debug_str     0x00002520      0x548 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_spi.o)
+                                0xb65 (size before relaxing)
+ .debug_str     0x00002a68      0xc98 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_tim.o)
+                               0x134c (size before relaxing)
+ .debug_str     0x00003700      0x430 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_tim_ex.o)
+                                0xc0a (size before relaxing)
+ .debug_str     0x00003b30      0x5df .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_uart.o)
+                                0xd7d (size before relaxing)
 
 .comment        0x00000000       0x70
  .comment       0x00000000       0x70 .pioenvs\Generic_STM32F030K6\src\adc.o
@@ -1596,28 +1601,28 @@ OUTPUT(.pioenvs\Generic_STM32F030K6\firmware.elf elf32-littlearm)
  .comment       0x00000000       0x71 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_tim_ex.o)
  .comment       0x00000000       0x71 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_uart.o)
 
-.debug_frame    0x00000000     0x2434
+.debug_frame    0x00000000     0x2444
  .debug_frame   0x00000000       0x60 .pioenvs\Generic_STM32F030K6\src\adc.o
  .debug_frame   0x00000060       0x30 .pioenvs\Generic_STM32F030K6\src\gpio.o
  .debug_frame   0x00000090       0x54 .pioenvs\Generic_STM32F030K6\src\main.o
- .debug_frame   0x000000e4       0x40 .pioenvs\Generic_STM32F030K6\src\pwm.o
- .debug_frame   0x00000124       0x64 .pioenvs\Generic_STM32F030K6\src\spi.o
- .debug_frame   0x00000188       0x2c .pioenvs\Generic_STM32F030K6\src\stm32f0xx_hal_msp.o
- .debug_frame   0x000001b4       0x98 .pioenvs\Generic_STM32F030K6\src\stm32f0xx_it.o
- .debug_frame   0x0000024c       0x3c .pioenvs\Generic_STM32F030K6\src\system_stm32f0xx.o
- .debug_frame   0x00000288       0x8c .pioenvs\Generic_STM32F030K6\src\tim.o
- .debug_frame   0x00000314       0x64 .pioenvs\Generic_STM32F030K6\src\usart.o
- .debug_frame   0x00000378       0x20 c:/users/t9569bk/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m\libgcc.a(_udivsi3.o)
- .debug_frame   0x00000398      0x144 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal.o)
- .debug_frame   0x000004dc      0x2d4 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_adc.o)
- .debug_frame   0x000007b0       0xe4 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_cortex.o)
- .debug_frame   0x00000894      0x150 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_dma.o)
- .debug_frame   0x000009e4       0xbc .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_gpio.o)
- .debug_frame   0x00000aa0       0x78 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_i2c_ex.o)
- .debug_frame   0x00000b18      0x130 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_rcc.o)
- .debug_frame   0x00000c48       0x58 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_rcc_ex.o)
- .debug_frame   0x00000ca0      0x5a0 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_spi.o)
- .debug_frame   0x00001240      0x918 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_tim.o)
- .debug_frame   0x00001b58      0x38c .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_tim_ex.o)
- .debug_frame   0x00001ee4      0x528 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_uart.o)
- .debug_frame   0x0000240c       0x28 c:/users/t9569bk/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libc_s.a(lib_a-memcpy-stub.o)
+ .debug_frame   0x000000e4       0x50 .pioenvs\Generic_STM32F030K6\src\pwm.o
+ .debug_frame   0x00000134       0x64 .pioenvs\Generic_STM32F030K6\src\spi.o
+ .debug_frame   0x00000198       0x2c .pioenvs\Generic_STM32F030K6\src\stm32f0xx_hal_msp.o
+ .debug_frame   0x000001c4       0x98 .pioenvs\Generic_STM32F030K6\src\stm32f0xx_it.o
+ .debug_frame   0x0000025c       0x3c .pioenvs\Generic_STM32F030K6\src\system_stm32f0xx.o
+ .debug_frame   0x00000298       0x8c .pioenvs\Generic_STM32F030K6\src\tim.o
+ .debug_frame   0x00000324       0x64 .pioenvs\Generic_STM32F030K6\src\usart.o
+ .debug_frame   0x00000388       0x20 c:/users/balazs/.platformio/packages/toolchain-gccarmnoneeabi@1.40804.0/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m\libgcc.a(_udivsi3.o)
+ .debug_frame   0x000003a8      0x144 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal.o)
+ .debug_frame   0x000004ec      0x2d4 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_adc.o)
+ .debug_frame   0x000007c0       0xe4 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_cortex.o)
+ .debug_frame   0x000008a4      0x150 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_dma.o)
+ .debug_frame   0x000009f4       0xbc .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_gpio.o)
+ .debug_frame   0x00000ab0       0x78 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_i2c_ex.o)
+ .debug_frame   0x00000b28      0x130 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_rcc.o)
+ .debug_frame   0x00000c58       0x58 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_rcc_ex.o)
+ .debug_frame   0x00000cb0      0x5a0 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_spi.o)
+ .debug_frame   0x00001250      0x918 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_tim.o)
+ .debug_frame   0x00001b68      0x38c .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_tim_ex.o)
+ .debug_frame   0x00001ef4      0x528 .pioenvs\Generic_STM32F030K6\libFrameworkHALDriver.a(stm32f0xx_hal_uart.o)
+ .debug_frame   0x0000241c       0x28 c:/users/balazs/.platformio/packages/toolchain-gccarmnoneeabi@1.40804.0/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libc_s.a(lib_a-memcpy-stub.o)
